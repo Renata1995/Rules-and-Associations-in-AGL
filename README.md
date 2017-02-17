@@ -24,7 +24,7 @@
   * Participants will be told that training strings follow a certain grammar but not details of the grammar
   * Participants will be asked to determine whether new items are G or UG
 
-*#####Normal Results:
+* #####Normal Results:
   * Participants could exhibit above chance accuracy
   * Participants could not articulate how they make grammaticality judgments.
 
