@@ -5,6 +5,8 @@
  * Requirements
 
 ## Introduction
+
+The current experiment investigates how a rule-based variable and a statistics-based variable influence AGL performance
 ### ARTIFICIAL GRAMMAR LEARNING PARADIGM (AGL)
 
 * #### Application
@@ -22,13 +24,29 @@
   * Participants will be told that training strings follow a certain grammar but not details of the grammar
   * Participants will be asked to determine whether new items are G or UG
 
-* #### Transfer Setting
+* ##### Transfer Setting
 Learning items and test items involve different modularities.
 i.e. The learning session uses letter sequences and the test session uses color sequences.
 
 * ##### Normal Results:
   * Participants exhibit above chance accuracy
   * Participants could not articulate how they make grammaticality judgments.
+
+* ##### Various Interpretations
+    * Rule-Based Interpretations
+        * Participants have learned complete or partial of the original grammar ([Reber,1967](http://www.wjh.harvard.edu/~pal/pdfs/replaced_scanned_articles/reber67_scanned.pdf),[1969](http://psycnet.apa.org/psycinfo/1969-12199-001), [1989](http://www.wjh.harvard.edu/~pal/pdfs/pdfs/reber89.pdf))
+        * Participants have learned a set of propositional rules with the form {Feature -> Grammaticality} ([Dulany, et al, 1984](http://www.wjh.harvard.edu/~pal/pdfs/pdfs/dulany84.pdf))
+
+            Feature refers to a chunk of symbols. Grammaticality refers to "Grammatical" or "Ungrammatical"
+
+            i.e. A participant might learned that items with the chunk "XV" are always grammatical and establishes the rule {"XV" -> Grammatical}
+
+    * Statistics-Based Interpretations
+        * Specific Similarity/Edit Distance: Grammatical judgment of a given test item is based on whether the test item is highly similar to a specific learning item ([Vokey & Brooks, 1992](http://www.wjh.harvard.edu/~pal/pdfs/replaced_scanned_articles/vokey-brooks92_scanned.pdf))
+        * Generalized Context Model: Grammatical judgment of a given test item is based on the averaged similarity between the test item and all learning items ([Pothos & Bailey, 2000](https://www.researchgate.net/profile/Todd_Bailey/publication/12375156_The_Role_of_Similarity_in_Artificial_Grammar_Learning/links/5405ac020cf2c48563b17c30/The-Role-of-Similarity-in-Artificial-Grammar-Learning.pdf))
+        * Analogical Similarity: Grammatical judgment of a transfer test item is based on structural similarity with learning items ([Brooks & Vokey](http://www.wjh.harvard.edu/~pal/pdfs/pdfs/brooks-vokey91.pdf))
+        * Chunk Strength: Grammatical judgment of a given test item is based on whether the test item contains frequent bigrams or trigrams
+        * Entropy: Grammatical judgment of a given test item is based on its entropy value according to all learning items ([Jamieson et al., 2016](https://www.ncbi.nlm.nih.gov/pubmed/25828458))
 
 ### PRESENT EXPERIMENT
 
@@ -39,6 +57,8 @@ i.e. The learning session uses letter sequences and the test session uses color 
 2. Chunk Strength: For a given item, chunk strength is the averaged frequency of all its bigrams and trigrams in the learning session
 
 #### Experiment Design
+Both standard and transfer settings are used
+
 2 (Grammatical vs. Ungrammatical) x 3 (High, Medium & Low Chunk Strength) x 2 (Changed Module vs. Unchanged Module)
 
 ![experiment design](/image/exp_design.png)

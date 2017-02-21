@@ -129,4 +129,3 @@ class DataEntry:
     def display(self):
         print self.grammar + " " + self.order + " " + self.s_type + " " + str(self.stimulus) + " " + str(self.response) + " " + str(self.reaction_time)
 
-
