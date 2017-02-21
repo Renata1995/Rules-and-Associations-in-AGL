@@ -1,0 +1,14 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ignore pycharm ide setting folder
+.idea
+
+# ignore compressed files
+*.zip
+*.rar
+
+# ignore batch files
+*.bat

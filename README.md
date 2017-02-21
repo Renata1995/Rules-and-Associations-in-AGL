@@ -22,8 +22,12 @@
   * Participants will be told that training strings follow a certain grammar but not details of the grammar
   * Participants will be asked to determine whether new items are G or UG
 
+* #### Transfer Setting
+Learning items and test items involve different modularities.
+i.e. The learning session uses letter sequences and the test session uses color sequences.
+
 * ##### Normal Results:
-  * Participants could exhibit above chance accuracy
+  * Participants exhibit above chance accuracy
   * Participants could not articulate how they make grammaticality judgments.
 
 ### PRESENT EXPERIMENT
@@ -32,7 +36,7 @@
 1. Grammar Complexity:
     * Finite State grammar
     * Context Free Grammar
-2. Chunk Strength: For a given item, chunk strength is the averaged frequency of all bigrams and trigrams in the learning session
+2. Chunk Strength: For a given item, chunk strength is the averaged frequency of all its bigrams and trigrams in the learning session
 
 #### Experiment Design
 2 (Grammatical vs. Ungrammatical) x 3 (High, Medium & Low Chunk Strength) x 2 (Changed Module vs. Unchanged Module)
