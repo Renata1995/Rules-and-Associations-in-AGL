@@ -1,4 +1,16 @@
 class Participant:
-    def __init__(self, age, gender):
+    """
+    The Participant class collects basic demographic information and responses of participants
+    """
+    def __init__(self, id, age, gender):
+        self.id = id
         self.age = age
         self.gender = gender
+
+        # Response in the learning session.
+        # A list of LearningDataEntry objects
+        self.learning_session_input = []
+
+        # Response in the test session
+        # A list of TestDataEntry objects
+        self.test_session_input = []

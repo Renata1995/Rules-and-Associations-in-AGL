@@ -1,11 +1,11 @@
 from unittest import TestCase
-from Manipulation.chunks import CScalculator
+from Manipulation.chunks import ChunkStrengthCal
 
 
 class TestChunks(TestCase):
     def setUp(self):
         strlist = ["abbcc","cddab","dcbba"]
-        self.csCalculator = CScalculator(strlist)
+        self.csCalculator = ChunkStrengthCal(strlist)
 
     def test_gen_bigrams(self):
         self.assertEqual(self.csCalculator.gen_bigrams("abbcc"),["ab","bb","bc","cc"])

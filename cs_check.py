@@ -4,7 +4,7 @@ import os
 import re
 import sys
 from nltk import CFG, nonterminals, RecursiveDescentParser
-from Manipulation.chunks import CScalculator
+from Manipulation.chunks import ChunkStrengthCal
 
 stimuli = dist.get_stimuli("CFG.txt")
 

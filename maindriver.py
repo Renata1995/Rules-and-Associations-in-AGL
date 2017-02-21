@@ -4,7 +4,7 @@ import os
 import re
 import sys
 from nltk import CFG, nonterminals, RecursiveDescentParser
-from Manipulation.chunks import CScalculator
+from Manipulation.chunks import ChunkStrengthCal
 
 if len(sys.argv) <= 1:
     training = "RE.txt"
@@ -52,7 +52,7 @@ for num in range(5, 9):
 stimuli = dist.get_stimuli(training)
 
 # Create two cs_calculators
-cs_cal = CScalculator(stimuli)
+cs_cal = ChunkStrengthCal(stimuli)
 
 # Open output file
 after_dist = []

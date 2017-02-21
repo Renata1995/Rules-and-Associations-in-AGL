@@ -1,4 +1,4 @@
-from Manipulation.chunks import CScalculator
+from Manipulation.chunks import ChunkStrengthCal
 import numpy as np
 import distance as dist
 import str_gen as sg
@@ -6,8 +6,8 @@ import str_gen as sg
 re_stimuli = dist.get_stimuli("RE.txt")
 cfg_stimuli = dist.get_stimuli("CFG.txt")
 
-re_cs = CScalculator(re_stimuli)
-cfg_cs = CScalculator(cfg_stimuli)
+re_cs = ChunkStrengthCal(re_stimuli)
+cfg_cs = ChunkStrengthCal(cfg_stimuli)
 
 allstr = []
 for num in range(5, 9):
