@@ -1,0 +1,56 @@
+2
+AGL Experiment
+11/30/2016	11:59:59 AM
+
+Participant	Participant	Session	Block	Block	Trial	Trial	Event	Event	Cumulative	Participant	Input			Pressed Or	X	Y	Correct	Error	Reaction
+Group	Name	ID	Name	No.	Name	No.	Name	No.	Time	Response	String	Key	Key	Released	Position	Position	Response	Code	Time	Answers
+RE RSC	2	2	RE random SC	1	Random Instruction	1	Random Instruction	1	48336	space		 					(any response)	C	48302	
+RE RSC	2	2	RE random SC	1	RE String Test, 24	25	RE String Test (24, DBDABADA)	25	53984	1		1					1; 2; 3; 4	C	5633	
+RE RSC	2	2	RE random SC	1	RE String Test, 13	14	RE String Test (13, AACCD)	14	69456	1		1					1; 2; 3; 4	C	15456	
+RE RSC	2	2	RE random SC	1	RE String Test, 5	6	RE String Test (5, DCBAD)	6	77712	3		3					1; 2; 3; 4	C	8244	
+RE RSC	2	2	RE random SC	1	RE String Test, 6	7	RE String Test (6, ADDACD)	7	81360	2		2					1; 2; 3; 4	C	3643	
+RE RSC	2	2	RE random SC	1	RE String Test, 21	22	RE String Test (21, ABADA)	22	93176	4		4					1; 2; 3; 4	C	11809	
+RE RSC	2	2	RE random SC	1	RE String Test, 3	4	RE String Test (3, DDADACD)	4	102664	1		1					1; 2; 3; 4	C	9480	
+RE RSC	2	2	RE random SC	1	RE String Test, 18	19	RE String Test (18, CDADAD)	19	107392	2		2					1; 2; 3; 4	C	4725	
+RE RSC	2	2	RE random SC	1	RE String Test, 16	17	RE String Test (16, DACDACDD)	17	116488	3		3					1; 2; 3; 4	C	9087	
+RE RSC	2	2	RE random SC	1	RE String Test, 23	24	RE String Test (23, ADBBDDB)	24	131391	2		2					1; 2; 3; 4	C	14890	
+RE RSC	2	2	RE random SC	1	RE String Test, 2	3	RE String Test (2, DDACBD)	3	138439	3		3					1; 2; 3; 4	C	7039	
+RE RSC	2	2	RE random SC	1	RE String Test, 1	2	RE String Test (1, ADACD)	2	144639	1		1					1; 2; 3; 4	C	6189	
+RE RSC	2	2	RE random SC	1	RE String Test, 15	16	RE String Test (15, BACCDCD)	16	158407	3		3					1; 2; 3; 4	C	13757	
+RE RSC	2	2	RE random SC	1	RE String Test, 20	21	RE String Test (20, AACAABCD)	21	164167	1		1					1; 2; 3; 4	C	5750	
+RE RSC	2	2	RE random SC	1	RE String Test, 14	15	RE String Test (14, ABACDD)	15	173047	2		2					1; 2; 3; 4	C	8863	
+RE RSC	2	2	RE random SC	1	RE String Test, 4	5	RE String Test (4, DDDDDACD)	5	178799	1		1					1; 2; 3; 4	C	5749	
+RE RSC	2	2	RE random SC	1	RE String Test, 12	13	RE String Test (12, AACABABD)	13	178887	1		1					1; 2; 3; 4	C	71	
+RE RSC	2	2	RE random SC	1	RE String Test, 19	20	RE String Test (19, DBCCBBD)	20	189767	1		1					1; 2; 3; 4	C	10867	
+RE RSC	2	2	RE random SC	1	RE String Test, 11	12	RE String Test (11, DCAABAD)	12	194127	3		3					1; 2; 3; 4	C	4344	
+RE RSC	2	2	RE random SC	1	RE String Test, 9	10	RE String Test (9, DCAAD)	10	196143	2		2					1; 2; 3; 4	C	2010	
+RE RSC	2	2	RE random SC	1	RE String Test, 10	11	RE String Test (10, ACBAAD)	11	204455	2		2					1; 2; 3; 4	C	8305	
+RE RSC	2	2	RE random SC	1	RE String Test, 17	18	RE String Test (17, BADCD)	18	221343	4		4					1; 2; 3; 4	C	16877	
+RE RSC	2	2	RE random SC	1	RE String Test, 8	9	RE String Test (8, DACBAABD)	9	238967	3		3					1; 2; 3; 4	C	17602	
+RE RSC	2	2	RE random SC	1	RE String Test, 7	8	RE String Test (7, CBABBBD)	8	250887	2		2					1; 2; 3; 4	C	11904	
+RE RSC	2	2	RE random SC	1	RE String Test, 22	23	RE String Test (22, CDBABB)	23	255062	3		3					1; 2; 3; 4	C	4163	
+RE RSC	2	2	RE random SC	1	RE Color Test, 1	26	RE Color Test (1, testBBBBBRGB.jpg)	26	262894	3		3					1; 2; 3; 4	C	7811	
+RE RSC	2	2	RE random SC	1	RE Color Test, 23	48	RE Color Test (23, testYRBGB.jpg)	48	267534	2		2					1; 2; 3; 4	C	4618	
+RE RSC	2	2	RE random SC	1	RE Color Test, 19	44	RE Color Test (19, testRRGRRYGB.jpg)	44	272262	1		1					1; 2; 3; 4	C	4713	
+RE RSC	2	2	RE random SC	1	RE Color Test, 17	42	RE Color Test (17, testRGYRRB.jpg)	42	276246	1		1					1; 2; 3; 4	C	3963	
+RE RSC	2	2	RE random SC	1	RE Color Test, 3	28	RE Color Test (3, testBBRGYB.jpg)	28	278806	1		1					1; 2; 3; 4	C	2540	
+RE RSC	2	2	RE random SC	1	RE Color Test, 11	36	RE Color Test (11, testGBRBRB.jpg)	36	282966	3		3					1; 2; 3; 4	C	4150	
+RE RSC	2	2	RE random SC	1	RE Color Test, 8	33	RE Color Test (8, testBRGYRRYB.jpg)	33	291158	1		1					1; 2; 3; 4	C	8176	
+RE RSC	2	2	RE random SC	1	RE Color Test, 13	38	RE Color Test (13, testGYRYYYB.jpg)	38	293478	1		1					1; 2; 3; 4	C	2296	
+RE RSC	2	2	RE random SC	1	RE Color Test, 16	41	RE Color Test (16, testRBYYBBY.jpg)	41	296726	3		3					1; 2; 3; 4	C	3227	
+RE RSC	2	2	RE random SC	1	RE Color Test, 9	34	RE Color Test (9, testBYBRYRBR.jpg)	34	302926	2		2					1; 2; 3; 4	C	6177	
+RE RSC	2	2	RE random SC	1	RE Color Test, 14	39	RE Color Test (14, testRBBRGB.jpg)	39	306502	1		1					1; 2; 3; 4	C	3553	
+RE RSC	2	2	RE random SC	1	RE Color Test, 22	47	RE Color Test (22, testRYRGBB.jpg)	47	308726	3		3					1; 2; 3; 4	C	2210	
+RE RSC	2	2	RE random SC	1	RE Color Test, 5	30	RE Color Test (5, testBGRRYRB.jpg)	30	310542	1		1					1; 2; 3; 4	C	1793	
+RE RSC	2	2	RE random SC	1	RE Color Test, 12	37	RE Color Test (12, testGBYRYY.jpg)	37	313070	1		1					1; 2; 3; 4	C	2504	
+RE RSC	2	2	RE random SC	1	RE Color Test, 4	29	RE Color Test (4, testBGRRB.jpg)	29	321006	2		2					1; 2; 3; 4	C	7890	
+RE RSC	2	2	RE random SC	1	RE Color Test, 6	31	RE Color Test (6, testBGYRB.jpg)	31	322798	1		1					1; 2; 3; 4	C	1782	
+RE RSC	2	2	RE random SC	1	RE Color Test, 24	49	RE Color Test (24, testYRGGBGB.jpg)	49	325422	3		3					1; 2; 3; 4	C	2606	
+RE RSC	2	2	RE random SC	1	RE Color Test, 21	46	RE Color Test (21, testRYRBR.jpg)	46	327254	3		3					1; 2; 3; 4	C	1822	
+RE RSC	2	2	RE random SC	1	RE Color Test, 18	43	RE Color Test (18, testRRGGB.jpg)	43	330422	3		3					1; 2; 3; 4	C	3156	
+RE RSC	2	2	RE random SC	1	RE Color Test, 15	40	RE Color Test (15, testRBRGB.jpg)	40	340654	3		3					1; 2; 3; 4	C	10222	
+RE RSC	2	2	RE random SC	1	RE Color Test, 7	32	RE Color Test (7, testBRGBRGBB.jpg)	32	343174	1		1					1; 2; 3; 4	C	2508	
+RE RSC	2	2	RE random SC	1	RE Color Test, 20	45	RE Color Test (20, testRRGRYRYB.jpg)	45	347966	2		2					1; 2; 3; 4	C	4767	
+RE RSC	2	2	RE random SC	1	RE Color Test, 10	35	RE Color Test (10, testBYGGYYB.jpg)	35	350366	3		3					1; 2; 3; 4	C	2384	
+RE RSC	2	2	RE random SC	1	RE Color Test, 2	27	RE Color Test (2, testBBRBRGB.jpg)	27	352750	3		3					1; 2; 3; 4	C	2368	
+RE RSC	2	2	RE random SC	1	Debriefing	50	Debriefing	50	366862	space		 					space	C	14064	

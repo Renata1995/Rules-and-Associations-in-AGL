@@ -7,7 +7,6 @@ class InfoExtractor:
         self.size_of_training_items = 24
 
     def SRT_data(self, raw):
-
         srt_data = DataEntry(raw[0], raw[1], raw[8], int(raw[10]), int(raw[19]), int(raw[26]))
         return srt_data
 
@@ -18,11 +17,40 @@ class InfoExtractor:
         current = ifile.readline()
         while "Middle Instruction 2" not in current:
             current = ifile.readline()
-
         # collect RE_data at the test session
         test_data_color = []
         test_data_letter = []
 
+        current = ifile.readline()
+
+        while "Debriefing" not in current:
+            entry = self.SRT_data(current.split())
+            if entry.s_type == "Color":
+                test_data_color.append(entry)
+            elif entry.s_type == "String":
+                test_data_letter.append(entry)
+            current = ifile.readline()
+
+        test_data_color = sorted(test_data_color, key=lambda x: x.stimulus)
+        test_data_letter = sorted(test_data_letter, key=lambda x: x.stimulus)
+
+        test_data = []
+        test_data.extend(test_data_letter)
+        test_data.extend(test_data_color)
+        return test_data_letter, test_data_color, test_data
+
+    def test_data_random(self, filename):
+        ifile = open(filename)
+
+        # skip RE_data at the learning session
+        current = ifile.readline()
+        while "Random Instruction" not in current:
+            current = ifile.readline()
+        # collect RE_data at the test session
+        test_data_color = []
+        test_data_letter = []
+
+        ifile.readline()
         current = ifile.readline()
         while "Debriefing" not in current:
             entry = self.SRT_data(current.split())
@@ -38,9 +66,6 @@ class InfoExtractor:
         test_data = []
         test_data.extend(test_data_letter)
         test_data.extend(test_data_color)
-        # for item in test_data:
-        #     item.display()
-
         return test_data_letter, test_data_color, test_data
 
     def accuracy_percent(self, test_data_letter, test_data_color):
@@ -50,15 +75,18 @@ class InfoExtractor:
         return letter_ap, color_ap, overall_ap
 
     def accuracy_helper(self, data):
-        accuracy = 0
+        g_accuracy = 0
+        ug_accuracy = 0
         for item in data:
             if item.stimulus < 13:
                 if item.response == 3 or item.response == 4:
-                    accuracy += 1
+                    g_accuracy += 1
             else:
                 if item.response == 1 or item.response == 2:
-                    accuracy += 1
-        print data[0].s_type + " # correct:  " + str(accuracy) + "/24"
+                    ug_accuracy += 1
+        print "grammatical # of correct: " + str(g_accuracy) + "  ungrammatical # of correct: " + str(ug_accuracy)
+        accuracy = g_accuracy + ug_accuracy
+        print data[0].s_type + " # correct:  " + str(accuracy) + "/" + str(len(data))
         percent = float(accuracy)/len(data)
         return percent
 

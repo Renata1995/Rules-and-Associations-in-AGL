@@ -1,0 +1,129 @@
+1
+AGL Experiment
+2/23/2017	1:25:44 PM
+
+Participant	Participant	Session	Block	Block	Trial	Trial	Event	Event	Cumulative	Participant	Input			Pressed Or	X	Y	Correct	Error	Reaction
+Group	Name	ID	Name	No.	Name	No.	Name	No.	Time	Response	String	Key	Key	Released	Position	Position	Response	Code	Time	Answers
+RE SSC	1	1	RE SSC	1	RE String Training, 8	9	RE String Training (8, ADDDBA)	9	48468	ADDDBA	ADDDBA						ADDDBA	C	4358	
+RE SSC	1	1	RE SSC	1	RE String Training, 15	16	RE String Training (15, ADBDBAD)	16	58436	ADBDBAD	ADBDBAD						ADBDBAD	C	3234	
+RE SSC	1	1	RE SSC	1	RE String Training, 12	13	RE String Training (12, CABABD)	13	64960	CABABD	CABABD						CABABD	C	1635	
+RE SSC	1	1	RE SSC	1	RE String Training, 11	12	RE String Training (11, CBBAAD)	12	69904	CBBAAD	CBBAAD						CBBAAD	C	1222	
+RE SSC	1	1	RE SSC	1	RE String Training, 9	10	RE String Training (9, DBDBBD)	10	75264	DBDBBD	DBDBBD						DBDBBD	C	1161	
+RE SSC	1	1	RE SSC	1	RE String Training, 19	20	RE String Training (19, DAAADDBA)	20	81376	DAAADDBA	DAAADDBA						DAAADDBA	C	1082	
+RE SSC	1	1	RE SSC	1	RE String Training, 5	6	RE String Training (5, DADBA)	6	84648	DADBA	DADBA						DADBA	C	967	
+RE SSC	1	1	RE SSC	1	RE String Training, 10	11	RE String Training (10, DDBDAD)	11	89496	DDBDAD	DDBDAD						DDBDAD	C	1035	
+RE SSC	1	1	RE SSC	1	RE String Training, 4	5	RE String Training (4, ADBDD)	5	93311	ADBDD	ADBDD						ADBDD	C	953	
+RE SSC	1	1	RE SSC	1	RE String Training, 14	15	RE String Training (14, BDBAAAD)	15	99319	BDBAAAD	BDBAAAD						BDBAAAD	C	1168	
+RE SSC	1	1	RE SSC	1	RE String Training, 21	22	RE String Training (21, DDBDAAAD)	22	105583	DDBDAAAD	DDBDAAAD						DDBDAAAD	C	1096	
+RE SSC	1	1	RE SSC	1	RE String Training, 6	7	RE String Training (6, BDABD)	7	109783	BDABD	BDABD						BDABD	C	1190	
+RE SSC	1	1	RE SSC	1	RE String Training, 2	3	RE String Training (2, CABAD)	3	113183	CABAD	CABAD						CABAD	C	1150	
+RE SSC	1	1	RE SSC	1	RE String Training, 18	19	RE String Training (18, DCBBBAD)	19	119511	DCBBBAD	DCBBBAD						DCBBBAD	C	1470	
+RE SSC	1	1	RE SSC	1	RE String Training, 13	14	RE String Training (13, CAABBAD)	14	124471	CAABBAD	CAABBAD						CAABBAD	C	945	
+RE SSC	1	1	RE SSC	1	RE String Training, 7	8	RE String Training (7, ABDAAD)	8	128599	ABDAAD	ABDAAD						ABDAAD	C	1147	
+RE SSC	1	1	RE SSC	1	RE String Training, 16	17	RE String Training (16, DDBDBAD)	17	133887	DDBDBAD	DDBDBAD						DDBDBAD	C	1084	
+RE SSC	1	1	RE SSC	1	RE String Training, 20	21	RE String Training (20, DDDAAABA)	21	137975	DDDAAABA	DDDAAABA						DDDAAABA	C	1137	
+RE SSC	1	1	RE SSC	1	RE String Training, 1	2	RE String Training (1, AADBA)	2	142439	AADBA	AADBA						AADBA	C	998	
+RE SSC	1	1	RE SSC	1	RE String Training, 24	25	RE String Training (24, CAABABBD)	25	148159	CAABABBD	CAABABBD						CAABABBD	C	931	
+RE SSC	1	1	RE SSC	1	RE String Training, 23	24	RE String Training (23, ADDBDBAD)	24	154639	ADDBDBAD	ADDBDBAD						ADDBDBAD	C	1102	
+RE SSC	1	1	RE SSC	1	RE String Training, 3	4	RE String Training (3, CBBBD)	4	158375	CBBBD	CBBBD						CBBBD	C	1123	
+RE SSC	1	1	RE SSC	1	RE String Training, 17	18	RE String Training (17, ACAAABD)	18	162487	ACAAABD	ACAAABD						ACAAABD	C	887	
+RE SSC	1	1	RE SSC	1	RE String Training, 22	23	RE String Training (22, BDAAAAAD)	23	168631	BDAAAAAD	BDAAAAAD						BDAAAAAD	C	1346	
+RE SSC	1	1	RE SSC	1	RE String Training1, 14	39	RE String Training (14, BDBAAAD)	15	174214	BDBAAAD	BDBAAAD						BDBAAAD	C	1124	
+RE SSC	1	1	RE SSC	1	RE String Training1, 11	36	RE String Training (11, CBBAAD)	12	178454	CBBAAD	CBBAAD						CBBAAD	C	1148	
+RE SSC	1	1	RE SSC	1	RE String Training1, 5	30	RE String Training (5, DADBA)	6	183694	DADBA	DADBA						DADBA	C	1427	
+RE SSC	1	1	RE SSC	1	RE String Training1, 21	46	RE String Training (21, DDBDAAAD)	22	190582	DDBDAAAD	DDBDAAAD						DDBDAAAD	C	1185	
+RE SSC	1	1	RE SSC	1	RE String Training1, 16	41	RE String Training (16, DDBDBAD)	17	195574	DDBDBAD	DDBDBAD						DDBDBAD	C	1070	
+RE SSC	1	1	RE SSC	1	RE String Training1, 18	43	RE String Training (18, DCBBBAD)	19	199494	DCBBBAD	DCBBBAD						DCBBBAD	C	1279	
+RE SSC	1	1	RE SSC	1	RE String Training1, 8	33	RE String Training (8, ADDDBA)	9	202502	ADDDBA	ADDDBA						ADDDBA	C	873	
+RE SSC	1	1	RE SSC	1	RE String Training1, 3	28	RE String Training (3, CBBBD)	4	206062	CBBBD	CBBBD						CBBBD	C	1411	
+RE SSC	1	1	RE SSC	1	RE String Training1, 7	32	RE String Training (7, ABDAAD)	8	213654	ABDAAD	ABDAAD						ABDAAD	C	890	
+RE SSC	1	1	RE SSC	1	RE String Training1, 22	47	RE String Training (22, BDAAAAAD)	23	219920	BDAAAAAD	BDAAAAAD						BDAAAAAD	C	1811	
+RE SSC	1	1	RE SSC	1	RE String Training1, 15	40	RE String Training (15, ADBDBAD)	16	226358	ADBDBAD	ADBDBAD						ADBDBAD	C	776	
+RE SSC	1	1	RE SSC	1	RE String Training1, 6	31	RE String Training (6, BDABD)	7	230470	BDABD	BDABD						BDABD	C	1271	
+RE SSC	1	1	RE SSC	1	RE String Training1, 9	34	RE String Training (9, DBDBBD)	10	235870	DBDBBD	DBDBBD						DBDBBD	C	1210	
+RE SSC	1	1	RE SSC	1	RE String Training1, 1	26	RE String Training (1, AADBA)	2	239830	AADBA	AADBA						AADBA	C	962	
+RE SSC	1	1	RE SSC	1	RE String Training1, 2	27	RE String Training (2, CABAD)	3	243494	CABAD	CABAD						CABAD	C	1132	
+RE SSC	1	1	RE SSC	1	RE String Training1, 4	29	RE String Training (4, ADBDD)	5	246245	ADBDD	ADBDD						ADBDD	C	737	
+RE SSC	1	1	RE SSC	1	RE String Training1, 12	37	RE String Training (12, CABABD)	13	250757	CABABD	CABABD						CABABD	C	1035	
+RE SSC	1	1	RE SSC	1	RE String Training1, 17	42	RE String Training (17, ACAAABD)	18	254693	ACAAABD	ACAAABD						ACAAABD	C	718	
+RE SSC	1	1	RE SSC	1	RE String Training1, 10	35	RE String Training (10, DDBDAD)	11	259021	DDBDAD	DDBDAD						DDBDAD	C	801	
+RE SSC	1	1	RE SSC	1	RE String Training1, 19	44	RE String Training (19, DAAADDBA)	20	264277	DAAADDBA	DAAADDBA						DAAADDBA	C	908	
+RE SSC	1	1	RE SSC	1	RE String Training1, 20	45	RE String Training (20, DDDAAABA)	21	267973	DDDAAABA	DDDAAABA						DDDAAABA	C	962	
+RE SSC	1	1	RE SSC	1	RE String Training1, 24	49	RE String Training (24, CAABABBD)	25	272821	CAABABBD	CAABABBD						CAABABBD	C	1143	
+RE SSC	1	1	RE SSC	1	RE String Training1, 13	38	RE String Training (13, CAABBAD)	14	277005	CAABBAD	CAABBAD						CAABBAD	C	757	
+RE SSC	1	1	RE SSC	1	RE String Training1, 23	48	RE String Training (23, ADDBDBAD)	24	284549	ADDBDBAD	ADDBDBAD						ADDBDBAD	C	869	
+RE SSC	1	1	RE SSC	1	RE String Training2, 14	63	RE String Training (14, BDBAAAD)	15	294333	BDBAAAD	BDBAAAD						BDBAAAD	C	1182	
+RE SSC	1	1	RE SSC	1	RE String Training2, 11	60	RE String Training (11, CBBAAD)	12	297373	CBBAAD	CBBAAD						CBBAAD	C	1343	
+RE SSC	1	1	RE SSC	1	RE String Training2, 15	64	RE String Training (15, ADBDBAD)	16	301237	ADBDBAD	ADBDBAD						ADBDBAD	C	887	
+RE SSC	1	1	RE SSC	1	RE String Training2, 16	65	RE String Training (16, DDBDBAD)	17	305085	DDBDBAD	DDBDBAD						DDBDBAD	C	979	
+RE SSC	1	1	RE SSC	1	RE String Training2, 21	70	RE String Training (21, DDBDAAAD)	22	309237	DDBDAAAD	DDBDAAAD						DDBDAAAD	C	993	
+RE SSC	1	1	RE SSC	1	RE String Training2, 8	57	RE String Training (8, ADDDBA)	9	312581	ADDDBA	ADDDBA						ADDDBA	C	891	
+RE SSC	1	1	RE SSC	1	RE String Training2, 20	69	RE String Training (20, DDDAAABA)	21	316253	DDDAAABA	DDDAAABA						DDDAAABA	C	798	
+RE SSC	1	1	RE SSC	1	RE String Training2, 24	73	RE String Training (24, CAABABBD)	25	320933	CAABABBD	CAABABBD						CAABABBD	C	1123	
+RE SSC	1	1	RE SSC	1	RE String Training2, 13	62	RE String Training (13, CAABBAD)	14	325165	CAABBAD	CAABBAD						CAABBAD	C	896	
+RE SSC	1	1	RE SSC	1	RE String Training2, 9	58	RE String Training (9, DBDBBD)	10	331780	DBDBBD	DBDBBD						DBDBBD	C	1070	
+RE SSC	1	1	RE SSC	1	RE String Training2, 2	51	RE String Training (2, CABAD)	3	335596	CABAD	CABAD						CABAD	C	1014	
+RE SSC	1	1	RE SSC	1	RE String Training2, 7	56	RE String Training (7, ABDAAD)	8	339804	ABDAAD	ABDAAD						ABDAAD	C	917	
+RE SSC	1	1	RE SSC	1	RE String Training2, 17	66	RE String Training (17, ACAAABD)	18	345564	ACAAABD	ACAAABD						ACAAABD	C	805	
+RE SSC	1	1	RE SSC	1	RE String Training2, 18	67	RE String Training (18, DCBBBAD)	19	350796	DCBBBAD	DCBBBAD						DCBBBAD	C	983	
+RE SSC	1	1	RE SSC	1	RE String Training2, 23	72	RE String Training (23, ADDBDBAD)	24	354908	ADDBDBAD	ADDBDBAD						ADDBDBAD	C	629	
+RE SSC	1	1	RE SSC	1	RE String Training2, 5	54	RE String Training (5, DADBA)	6	357276	DADBA	DADBA						DADBA	C	817	
+RE SSC	1	1	RE SSC	1	RE String Training2, 6	55	RE String Training (6, BDABD)	7	360692	BDABD	BDABD						BDABD	C	1050	
+RE SSC	1	1	RE SSC	1	RE String Training2, 10	59	RE String Training (10, DDBDAD)	11	364148	DDBDAD	DDBDAD						DDBDAD	C	816	
+RE SSC	1	1	RE SSC	1	RE String Training2, 4	53	RE String Training (4, ADBDD)	5	366332	ADBDD	ADBDD						ADBDD	C	687	
+RE SSC	1	1	RE SSC	1	RE String Training2, 1	50	RE String Training (1, AADBA)	2	368700	AADBA	AADBA						AADBA	C	775	
+RE SSC	1	1	RE SSC	1	RE String Training2, 19	68	RE String Training (19, DAAADDBA)	20	372788	DAAADDBA	DAAADDBA						DAAADDBA	C	889	
+RE SSC	1	1	RE SSC	1	RE String Training2, 22	71	RE String Training (22, BDAAAAAD)	23	377452	BDAAAAAD	BDAAAAAD						BDAAAAAD	C	1165	
+RE SSC	1	1	RE SSC	1	RE String Training2, 3	52	RE String Training (3, CBBBD)	4	381572	CBBBD	CBBBD						CBBBD	C	1147	
+RE SSC	1	1	RE SSC	1	RE String Training2, 12	61	RE String Training (12, CABABD)	13	385500	CABABD	CABABD						CABABD	C	1079	
+RE SSC	1	1	RE SSC	1	Middle Instruction	74	Middle Instruction	26	415019	space		 					space	C	29481	
+RE SSC	1	1	RE SSC	1	Middle Instruction	74	Middle Instruction 2	27	442226	space		 					space	C	27188	
+RE SSC	1	1	RE SSC	1	RE String Test, 13	87	RE String Test (13, AACCD)	40	450082	2		2					1; 2; 3; 4	C	7828	
+RE SSC	1	1	RE SSC	1	RE String Test, 14	88	RE String Test (14, ABACDD)	41	459474	1		1					1; 2; 3; 4	C	9386	
+RE SSC	1	1	RE SSC	1	RE String Test, 16	90	RE String Test (16, DACDACDD)	43	463282	1		1					1; 2; 3; 4	C	3794	
+RE SSC	1	1	RE SSC	1	RE String Test, 20	94	RE String Test (20, AACAABCD)	47	467138	2		2					1; 2; 3; 4	C	3850	
+RE SSC	1	1	RE SSC	1	RE String Test, 23	97	RE String Test (23, ADBBDDB)	50	472354	2		2					1; 2; 3; 4	C	5199	
+RE SSC	1	1	RE SSC	1	RE String Test, 5	79	RE String Test (5, DCBAD)	32	474818	1		1					1; 2; 3; 4	C	2447	
+RE SSC	1	1	RE SSC	1	RE String Test, 1	75	RE String Test (1, ADACD)	28	479098	2		2					1; 2; 3; 4	C	4261	
+RE SSC	1	1	RE SSC	1	RE String Test, 2	76	RE String Test (2, DDACBD)	29	490578	1		1					1; 2; 3; 4	C	11473	
+RE SSC	1	1	RE SSC	1	RE String Test, 22	96	RE String Test (22, CDBABB)	49	498858	1		1					1; 2; 3; 4	C	8270	
+RE SSC	1	1	RE SSC	1	RE String Test, 3	77	RE String Test (3, DDADACD)	30	505274	1		1					1; 2; 3; 4	C	6403	
+RE SSC	1	1	RE SSC	1	RE String Test, 10	84	RE String Test (10, ACBAAD)	37	506946	1		1					1; 2; 3; 4	C	1658	
+RE SSC	1	1	RE SSC	1	RE String Test, 6	80	RE String Test (6, ADDACD)	33	509298	2		2					1; 2; 3; 4	C	2344	
+RE SSC	1	1	RE SSC	1	RE String Test, 24	98	RE String Test (24, DBDABADA)	51	516130	2		2					1; 2; 3; 4	C	6826	
+RE SSC	1	1	RE SSC	1	RE String Test, 7	81	RE String Test (7, CBABBBD)	34	519433	2		2					1; 2; 3; 4	C	3295	
+RE SSC	1	1	RE SSC	1	RE String Test, 18	92	RE String Test (18, CDADAD)	45	521993	3		3					1; 2; 3; 4	C	2540	
+RE SSC	1	1	RE SSC	1	RE String Test, 8	82	RE String Test (8, DACBAABD)	35	524465	2		2					1; 2; 3; 4	C	2461	
+RE SSC	1	1	RE SSC	1	RE String Test, 19	93	RE String Test (19, DBCCBBD)	46	527425	4		4					1; 2; 3; 4	C	2954	
+RE SSC	1	1	RE SSC	1	RE String Test, 12	86	RE String Test (12, AACABABD)	39	533265	4		4					1; 2; 3; 4	C	5812	
+RE SSC	1	1	RE SSC	1	RE String Test, 17	91	RE String Test (17, BADCD)	44	535665	3		3					1; 2; 3; 4	C	2394	
+RE SSC	1	1	RE SSC	1	RE String Test, 21	95	RE String Test (21, ABADA)	48	536865	4		4					1; 2; 3; 4	C	1194	
+RE SSC	1	1	RE SSC	1	RE String Test, 4	78	RE String Test (4, DDDDDACD)	31	544353	3		3					1; 2; 3; 4	C	7482	
+RE SSC	1	1	RE SSC	1	RE String Test, 15	89	RE String Test (15, BACCDCD)	42	546393	2		2					1; 2; 3; 4	C	2023	
+RE SSC	1	1	RE SSC	1	RE String Test, 9	83	RE String Test (9, DCAAD)	36	547745	2		2					1; 2; 3; 4	C	1341	
+RE SSC	1	1	RE SSC	1	RE String Test, 11	85	RE String Test (11, DCAABAD)	38	549121	1		1					1; 2; 3; 4	C	1367	
+RE SSC	1	1	RE SSC	1	RE Color Test, 18	116	RE Color Test (18, testRRGGB.jpg)	69	553601	4		4					1; 2; 3; 4	C	4464	
+RE SSC	1	1	RE SSC	1	RE Color Test, 13	111	RE Color Test (13, testGYRYYYB.jpg)	64	557761	3		3					1; 2; 3; 4	C	4125	
+RE SSC	1	1	RE SSC	1	RE Color Test, 24	122	RE Color Test (24, testYRGGBGB.jpg)	75	560625	2		2					1; 2; 3; 4	C	2854	
+RE SSC	1	1	RE SSC	1	RE Color Test, 9	107	RE Color Test (9, testBYBRYRBR.jpg)	60	565073	1		1					1; 2; 3; 4	C	4436	
+RE SSC	1	1	RE SSC	1	RE Color Test, 14	112	RE Color Test (14, testRBBRGB.jpg)	65	567857	1		1					1; 2; 3; 4	C	2770	
+RE SSC	1	1	RE SSC	1	RE Color Test, 12	110	RE Color Test (12, testGBYRYY.jpg)	63	570705	2		2					1; 2; 3; 4	C	2835	
+RE SSC	1	1	RE SSC	1	RE Color Test, 2	100	RE Color Test (2, testBBRBRGB.jpg)	53	574633	1		1					1; 2; 3; 4	C	3913	
+RE SSC	1	1	RE SSC	1	RE Color Test, 7	105	RE Color Test (7, testBRGBRGBB.jpg)	58	579561	3		3					1; 2; 3; 4	C	4892	
+RE SSC	1	1	RE SSC	1	RE Color Test, 10	108	RE Color Test (10, testBYGGYYB.jpg)	61	584001	3		3					1; 2; 3; 4	C	4415	
+RE SSC	1	1	RE SSC	1	RE Color Test, 17	115	RE Color Test (17, testRGYRRB.jpg)	68	588409	3		3					1; 2; 3; 4	C	4389	
+RE SSC	1	1	RE SSC	1	RE Color Test, 4	102	RE Color Test (4, testBGRRB.jpg)	55	591785	3		3					1; 2; 3; 4	C	3365	
+RE SSC	1	1	RE SSC	1	RE Color Test, 22	120	RE Color Test (22, testRYRGBB.jpg)	73	603376	3		3					1; 2; 3; 4	C	11573	
+RE SSC	1	1	RE SSC	1	RE Color Test, 20	118	RE Color Test (20, testRRGRYRYB.jpg)	71	606144	4		4					1; 2; 3; 4	C	2757	
+RE SSC	1	1	RE SSC	1	RE Color Test, 5	103	RE Color Test (5, testBGRRYRB.jpg)	56	607376	2		2					1; 2; 3; 4	C	1206	
+RE SSC	1	1	RE SSC	1	RE Color Test, 15	113	RE Color Test (15, testRBRGB.jpg)	66	610384	3		3					1; 2; 3; 4	C	2997	
+RE SSC	1	1	RE SSC	1	RE Color Test, 19	117	RE Color Test (19, testRRGRRYGB.jpg)	70	613032	3		3					1; 2; 3; 4	C	2629	
+RE SSC	1	1	RE SSC	1	RE Color Test, 8	106	RE Color Test (8, testBRGYRRYB.jpg)	59	616640	2		2					1; 2; 3; 4	C	3587	
+RE SSC	1	1	RE SSC	1	RE Color Test, 1	99	RE Color Test (1, testBBBBBRGB.jpg)	52	618488	2		2					1; 2; 3; 4	C	1835	
+RE SSC	1	1	RE SSC	1	RE Color Test, 6	104	RE Color Test (6, testBGYRB.jpg)	57	622384	4		4					1; 2; 3; 4	C	3881	
+RE SSC	1	1	RE SSC	1	RE Color Test, 21	119	RE Color Test (21, testRYRBR.jpg)	72	625144	4		4					1; 2; 3; 4	C	2741	
+RE SSC	1	1	RE SSC	1	RE Color Test, 11	109	RE Color Test (11, testGBRBRB.jpg)	62	626768	4		4					1; 2; 3; 4	C	1599	
+RE SSC	1	1	RE SSC	1	RE Color Test, 23	121	RE Color Test (23, testYRBGB.jpg)	74	628232	2		2					1; 2; 3; 4	C	1446	
+RE SSC	1	1	RE SSC	1	RE Color Test, 16	114	RE Color Test (16, testRBYYBBY.jpg)	67	631376	4		4					1; 2; 3; 4	C	3123	
+RE SSC	1	1	RE SSC	1	RE Color Test, 3	101	RE Color Test (3, testBBRGYB.jpg)	54	633272	2		2					1; 2; 3; 4	C	1886	
+RE SSC	1	1	RE SSC	1	Debriefing	123	Debriefing	76	666072	space		 					space	C	32770	
