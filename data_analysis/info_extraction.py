@@ -3,92 +3,110 @@ class InfoExtractor:
     InforExtractor provides methods to convert the raw data file into expected formats
     """
     def __init(self):
+        """
+        Init basic parameters in the infoExtractor
+        """
         self.size_of_test_items = 24
         self.size_of_training_items = 24
 
-    def SRT_data(self, raw):
-        srt_data = DataEntry(raw[0], raw[1], raw[8], int(raw[10]), int(raw[19]), int(raw[26]))
+    def text_to_data(self, raw):
+        """
+        Convert raw text into TestDataEntry objects
+        :param raw: raw text
+        :type raw: string
+        :return: A TestDataEntry object
+        """
+        srt_data = TestDataEntry(raw[0], raw[1], raw[8], int(raw[10]), int(raw[19]), int(raw[26]))
         return srt_data
 
     def test_data(self, filename):
+        """
+        Extract test data from the raw data file and convert to needed list of TestDataEntry objects
+        :param filename: the name of raw data file. A raw data file contains performance of a given participant
+        :type filename: string
+        :return: three lists of TestDataEntry objects
+        test_data_letter: test data whose s_type is "Letter"
+        test_data_color: test data whose s_type is "Color"
+        test_data: all test data
+        """
+        # open the raw data file
         ifile = open(filename)
 
-        # skip RE_data at the learning session
+        # skip data at the learning session
         current = ifile.readline()
         while "Middle Instruction 2" not in current:
             current = ifile.readline()
-        # collect RE_data at the test session
+
+        # collect data at the test session
         test_data_color = []
         test_data_letter = []
 
         current = ifile.readline()
+        while "Debriefing" not in current: # "Debriefing" is in the last line
 
-        while "Debriefing" not in current:
-            entry = self.SRT_data(current.split())
+            # each line in the raw data file contains a given participant's response to a given test item
+            entry = self.text_to_data(current.split())  # turn the current line of data into a TestDataEntry object
+
+            # put the entry object into appropriate lists
             if entry.s_type == "Color":
                 test_data_color.append(entry)
             elif entry.s_type == "String":
                 test_data_letter.append(entry)
+
+            # go to the next line
             current = ifile.readline()
 
+        # In the experiment, test items were presented in a random order.
+        # Sort test items by IDs
         test_data_color = sorted(test_data_color, key=lambda x: x.stimulus)
         test_data_letter = sorted(test_data_letter, key=lambda x: x.stimulus)
 
-        test_data = []
-        test_data.extend(test_data_letter)
-        test_data.extend(test_data_color)
+        # combine test_data_color and test_data_letter into a single list
+        test_data = test_data_letter + test_data_color
         return test_data_letter, test_data_color, test_data
 
-    def test_data_random(self, filename):
-        ifile = open(filename)
+    def accuracy(self, test_data_letter, test_data_color):
+        """
+        Calculate accuracy-related values of letter test items, color test items, and all items
+        :return:letter_accuracy, color_accuracy, overall_accuracy
+        :rtype: three tuples
+        """
+        letter_accuracy = self.accuracy_helper(test_data_letter)
+        color_accuracy = self.accuracy_helper(test_data_color)
+        overall_accuracy = self.accuracy_helper(test_data_letter + test_data_color)
 
-        # skip RE_data at the learning session
-        current = ifile.readline()
-        while "Random Instruction" not in current:
-            current = ifile.readline()
-        # collect RE_data at the test session
-        test_data_color = []
-        test_data_letter = []
-
-        ifile.readline()
-        current = ifile.readline()
-        while "Debriefing" not in current:
-            entry = self.SRT_data(current.split())
-            if entry.s_type == "Color":
-                test_data_color.append(entry)
-            elif entry.s_type == "String":
-                test_data_letter.append(entry)
-            current = ifile.readline()
-
-        test_data_color = sorted(test_data_color, key=lambda x: x.stimulus)
-        test_data_letter = sorted(test_data_letter, key=lambda x: x.stimulus)
-
-        test_data = []
-        test_data.extend(test_data_letter)
-        test_data.extend(test_data_color)
-        return test_data_letter, test_data_color, test_data
-
-    def accuracy_percent(self, test_data_letter, test_data_color):
-        letter_ap = self.accuracy_helper(test_data_letter)
-        color_ap = self.accuracy_helper(test_data_color)
-        overall_ap = (letter_ap + color_ap)/2
-        return letter_ap, color_ap, overall_ap
+        return letter_accuracy, color_accuracy, overall_accuracy
 
     def accuracy_helper(self, data):
-        g_accuracy = 0
-        ug_accuracy = 0
+        """
+        A helper method to calculate accuracy
+        :param data: a list of TestDataEntry objects
+        :return: an accuracy dictionary
+        accuracy["g"]: The number of correct judgments on grammatical items
+        accuracy["g_percent"]: The percentage of correct judgments on grammatical items
+        accuracy["ug"]: The number of correct judgments on ungrammatical items
+        accuracy["ug_percent"]: The percentage of correct judgments on ungrammatical items
+        accuracy["overall"]: The number of correct judgments on all items
+        accuracy["percent"]: The percentage of correct judgments on all items
+        :rtype: dictionary
+        """
+        accuracy = {"g": 0, "ug": 0}
+
         for item in data:
-            if item.stimulus < 13:
-                if item.response == 3 or item.response == 4:
-                    g_accuracy += 1
-            else:
-                if item.response == 1 or item.response == 2:
-                    ug_accuracy += 1
-        print "grammatical # of correct: " + str(g_accuracy) + "  ungrammatical # of correct: " + str(ug_accuracy)
-        accuracy = g_accuracy + ug_accuracy
-        print data[0].s_type + " # correct:  " + str(accuracy) + "/" + str(len(data))
-        percent = float(accuracy)/len(data)
-        return percent
+            if item.stimulus < 13: # grammatical items
+                if self.grammatical(item.response):
+                    accuracy["g"] += 1
+            else: # ungrammatical items
+                if not self.grammatical(item.response):
+                    accuracy["ug"] += 1
+
+        accuracy["overall"] = accuracy["g"] + accuracy["ug"]
+        accuracy["percent"] = float(accuracy["overall"])/len(data)
+        accuracy["g_percent"] = float(accuracy["g"]) * 2/len(data)
+        accuracy["ug_percent"] = float(accuracy["ug"]) * 2 / len(data)
+        print accuracy["g_percent"]
+
+        return accuracy
 
     def cs_percent(self, test_data_letter, test_data_color):
         letter_cs = self.cs_helper(test_data_letter)
@@ -119,9 +137,9 @@ class InfoExtractor:
             return False
 
 
-class DataEntry:
+class TestDataEntry:
     """
-    The DataEntry class contains information about each participant's performance.
+    The TestDataEntry class contains information about each participant's performance.
     Variables:
     - grammar: The grammar experimental condition. Values: RE or CFG
 

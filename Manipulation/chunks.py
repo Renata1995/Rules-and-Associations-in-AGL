@@ -4,6 +4,9 @@ import numpy as np
 class ChunkStrengthCal:
     """
     The ChunkStrengthCal class calculate the chunk strength of a given item
+    A chunk is defined as adjacent co-occurring letters in a sequence, such as a bigram or a trigram
+
+
     """
     def __init__(self, str_list):
         self.chunk_dict = self.strlist_to_bigrams(str_list)

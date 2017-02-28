@@ -1,0 +1,1912 @@
+Participant ID: SCS 1 re
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 7  percent: 0.583333333333   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 8  percent: 0.666666666667   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 15  percent: 0.625   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 2 re
+Grammatical Items: 
+Letter   number:  9 percent: 0.75   Color number: 5  percent: 0.416666666667   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 4  percent: 0.333333333333   Overall number:  9  percent: 0.375
+
+All Items: 
+Letter   number:  14 percent: 0.583333333333   Color number: 9  percent: 0.375   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SCS 3
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 9  percent: 0.75   Overall number:  16  percent: 0.666666666667
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 15  percent: 0.625   Overall number:  30  percent: 0.625
+------------------------------------
+
+Participant ID: SCS 4
+Grammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 9  percent: 0.75   Overall number:  19  percent: 0.791666666667
+
+Ungrammatical Items: 
+Letter   number:  3 percent: 0.25   Color number: 4  percent: 0.333333333333   Overall number:  7  percent: 0.291666666667
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 13  percent: 0.541666666667   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Participant ID: SCS 5
+Grammatical Items: 
+Letter   number:  1 percent: 0.0833333333333   Color number: 5  percent: 0.416666666667   Overall number:  6  percent: 0.25
+
+Ungrammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 8  percent: 0.666666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 13  percent: 0.541666666667   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 7
+Grammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 8  percent: 0.666666666667   Overall number:  13  percent: 0.541666666667
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 14  percent: 0.583333333333   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SSC 1
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 5  percent: 0.416666666667   Overall number:  7  percent: 0.291666666667
+
+Ungrammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 3  percent: 0.25   Overall number:  11  percent: 0.458333333333
+
+All Items: 
+Letter   number:  10 percent: 0.416666666667   Color number: 8  percent: 0.333333333333   Overall number:  18  percent: 0.375
+------------------------------------
+
+Participant ID: SSC 2
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 2  percent: 0.166666666667   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 8  percent: 0.666666666667   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 10  percent: 0.416666666667   Overall number:  21  percent: 0.4375
+------------------------------------
+
+Participant ID: SSC 3
+Grammatical Items: 
+Letter   number:  11 percent: 0.916666666667   Color number: 1  percent: 0.0833333333333   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 10  percent: 0.833333333333   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  16 percent: 0.666666666667   Color number: 11  percent: 0.458333333333   Overall number:  27  percent: 0.5625
+------------------------------------
+
+Participant ID: SSC 4
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 5  percent: 0.416666666667   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 4  percent: 0.333333333333   Overall number:  8  percent: 0.333333333333
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 9  percent: 0.375   Overall number:  20  percent: 0.416666666667
+------------------------------------
+
+Participant ID: SSC 5
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 8  percent: 0.666666666667   Overall number:  16  percent: 0.666666666667
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 7  percent: 0.583333333333   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 15  percent: 0.625   Overall number:  28  percent: 0.583333333333
+------------------------------------
+
+Participant ID: SSC 6
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  12 percent: 0.5   Color number: 12  percent: 0.5   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SSC 7
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 0  percent: 0.0   Overall number:  8  percent: 0.333333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 11  percent: 0.916666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 11  percent: 0.458333333333   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Overall avg 0.503205128205  SD: 0.0663082079025
+Letter avg 0.509615384615  SD: 0.0926720018897
+Color avg 0.496794871795  SD: 0.0986846430663
+Grammatical avg 0.490384615385  SD: 0.151694353413
+Ungrammatical avg 0.516025641026  SD: 0.147575185041Participant ID: SCS 1 re
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 7  percent: 0.583333333333   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 8  percent: 0.666666666667   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 15  percent: 0.625   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 2 re
+Grammatical Items: 
+Letter   number:  9 percent: 0.75   Color number: 5  percent: 0.416666666667   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 4  percent: 0.333333333333   Overall number:  9  percent: 0.375
+
+All Items: 
+Letter   number:  14 percent: 0.583333333333   Color number: 9  percent: 0.375   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SCS 3
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 9  percent: 0.75   Overall number:  16  percent: 0.666666666667
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 15  percent: 0.625   Overall number:  30  percent: 0.625
+------------------------------------
+
+Participant ID: SCS 4
+Grammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 9  percent: 0.75   Overall number:  19  percent: 0.791666666667
+
+Ungrammatical Items: 
+Letter   number:  3 percent: 0.25   Color number: 4  percent: 0.333333333333   Overall number:  7  percent: 0.291666666667
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 13  percent: 0.541666666667   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Participant ID: SCS 5
+Grammatical Items: 
+Letter   number:  1 percent: 0.0833333333333   Color number: 5  percent: 0.416666666667   Overall number:  6  percent: 0.25
+
+Ungrammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 8  percent: 0.666666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 13  percent: 0.541666666667   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 7
+Grammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 8  percent: 0.666666666667   Overall number:  13  percent: 0.541666666667
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 14  percent: 0.583333333333   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SSC 1
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 5  percent: 0.416666666667   Overall number:  7  percent: 0.291666666667
+
+Ungrammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 3  percent: 0.25   Overall number:  11  percent: 0.458333333333
+
+All Items: 
+Letter   number:  10 percent: 0.416666666667   Color number: 8  percent: 0.333333333333   Overall number:  18  percent: 0.375
+------------------------------------
+
+Participant ID: SSC 2
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 2  percent: 0.166666666667   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 8  percent: 0.666666666667   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 10  percent: 0.416666666667   Overall number:  21  percent: 0.4375
+------------------------------------
+
+Participant ID: SSC 3
+Grammatical Items: 
+Letter   number:  11 percent: 0.916666666667   Color number: 1  percent: 0.0833333333333   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 10  percent: 0.833333333333   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  16 percent: 0.666666666667   Color number: 11  percent: 0.458333333333   Overall number:  27  percent: 0.5625
+------------------------------------
+
+Participant ID: SSC 4
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 5  percent: 0.416666666667   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 4  percent: 0.333333333333   Overall number:  8  percent: 0.333333333333
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 9  percent: 0.375   Overall number:  20  percent: 0.416666666667
+------------------------------------
+
+Participant ID: SSC 5
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 8  percent: 0.666666666667   Overall number:  16  percent: 0.666666666667
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 7  percent: 0.583333333333   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 15  percent: 0.625   Overall number:  28  percent: 0.583333333333
+------------------------------------
+
+Participant ID: SSC 6
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  12 percent: 0.5   Color number: 12  percent: 0.5   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SSC 7
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 0  percent: 0.0   Overall number:  8  percent: 0.333333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 11  percent: 0.916666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 11  percent: 0.458333333333   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Overall avg 0.503205128205  SD: 0.0663082079025
+Letter avg 0.509615384615  SD: 0.0926720018897
+Color avg 0.496794871795  SD: 0.0986846430663
+Grammatical avg 0.490384615385  SD: 0.151694353413
+Ungrammatical avg 0.516025641026  SD: 0.147575185041Participant ID: SCS 1 re
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 7  percent: 0.583333333333   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 8  percent: 0.666666666667   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 15  percent: 0.625   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 2 re
+Grammatical Items: 
+Letter   number:  9 percent: 0.75   Color number: 5  percent: 0.416666666667   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 4  percent: 0.333333333333   Overall number:  9  percent: 0.375
+
+All Items: 
+Letter   number:  14 percent: 0.583333333333   Color number: 9  percent: 0.375   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SCS 3
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 9  percent: 0.75   Overall number:  16  percent: 0.666666666667
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 15  percent: 0.625   Overall number:  30  percent: 0.625
+------------------------------------
+
+Participant ID: SCS 4
+Grammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 9  percent: 0.75   Overall number:  19  percent: 0.791666666667
+
+Ungrammatical Items: 
+Letter   number:  3 percent: 0.25   Color number: 4  percent: 0.333333333333   Overall number:  7  percent: 0.291666666667
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 13  percent: 0.541666666667   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Participant ID: SCS 5
+Grammatical Items: 
+Letter   number:  1 percent: 0.0833333333333   Color number: 5  percent: 0.416666666667   Overall number:  6  percent: 0.25
+
+Ungrammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 8  percent: 0.666666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 13  percent: 0.541666666667   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 7
+Grammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 8  percent: 0.666666666667   Overall number:  13  percent: 0.541666666667
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 14  percent: 0.583333333333   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SSC 1
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 5  percent: 0.416666666667   Overall number:  7  percent: 0.291666666667
+
+Ungrammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 3  percent: 0.25   Overall number:  11  percent: 0.458333333333
+
+All Items: 
+Letter   number:  10 percent: 0.416666666667   Color number: 8  percent: 0.333333333333   Overall number:  18  percent: 0.375
+------------------------------------
+
+Participant ID: SSC 2
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 2  percent: 0.166666666667   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 8  percent: 0.666666666667   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 10  percent: 0.416666666667   Overall number:  21  percent: 0.4375
+------------------------------------
+
+Participant ID: SSC 3
+Grammatical Items: 
+Letter   number:  11 percent: 0.916666666667   Color number: 1  percent: 0.0833333333333   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 10  percent: 0.833333333333   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  16 percent: 0.666666666667   Color number: 11  percent: 0.458333333333   Overall number:  27  percent: 0.5625
+------------------------------------
+
+Participant ID: SSC 4
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 5  percent: 0.416666666667   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 4  percent: 0.333333333333   Overall number:  8  percent: 0.333333333333
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 9  percent: 0.375   Overall number:  20  percent: 0.416666666667
+------------------------------------
+
+Participant ID: SSC 5
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 8  percent: 0.666666666667   Overall number:  16  percent: 0.666666666667
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 7  percent: 0.583333333333   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 15  percent: 0.625   Overall number:  28  percent: 0.583333333333
+------------------------------------
+
+Participant ID: SSC 6
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  12 percent: 0.5   Color number: 12  percent: 0.5   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SSC 7
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 0  percent: 0.0   Overall number:  8  percent: 0.333333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 11  percent: 0.916666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 11  percent: 0.458333333333   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Overall avg 0.503205128205  SD: 0.0663082079025
+Letter avg 0.509615384615  SD: 0.0926720018897
+Color avg 0.496794871795  SD: 0.0986846430663
+Grammatical avg 0.490384615385  SD: 0.151694353413
+Ungrammatical avg 0.516025641026  SD: 0.147575185041Participant ID: SCS 1 re
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 7  percent: 0.583333333333   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 8  percent: 0.666666666667   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 15  percent: 0.625   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 2 re
+Grammatical Items: 
+Letter   number:  9 percent: 0.75   Color number: 5  percent: 0.416666666667   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 4  percent: 0.333333333333   Overall number:  9  percent: 0.375
+
+All Items: 
+Letter   number:  14 percent: 0.583333333333   Color number: 9  percent: 0.375   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SCS 3
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 9  percent: 0.75   Overall number:  16  percent: 0.666666666667
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 15  percent: 0.625   Overall number:  30  percent: 0.625
+------------------------------------
+
+Participant ID: SCS 4
+Grammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 9  percent: 0.75   Overall number:  19  percent: 0.791666666667
+
+Ungrammatical Items: 
+Letter   number:  3 percent: 0.25   Color number: 4  percent: 0.333333333333   Overall number:  7  percent: 0.291666666667
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 13  percent: 0.541666666667   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Participant ID: SCS 5
+Grammatical Items: 
+Letter   number:  1 percent: 0.0833333333333   Color number: 5  percent: 0.416666666667   Overall number:  6  percent: 0.25
+
+Ungrammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 8  percent: 0.666666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 13  percent: 0.541666666667   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 7
+Grammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 8  percent: 0.666666666667   Overall number:  13  percent: 0.541666666667
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 14  percent: 0.583333333333   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SSC 1
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 5  percent: 0.416666666667   Overall number:  7  percent: 0.291666666667
+
+Ungrammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 3  percent: 0.25   Overall number:  11  percent: 0.458333333333
+
+All Items: 
+Letter   number:  10 percent: 0.416666666667   Color number: 8  percent: 0.333333333333   Overall number:  18  percent: 0.375
+------------------------------------
+
+Participant ID: SSC 2
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 2  percent: 0.166666666667   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 8  percent: 0.666666666667   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 10  percent: 0.416666666667   Overall number:  21  percent: 0.4375
+------------------------------------
+
+Participant ID: SSC 3
+Grammatical Items: 
+Letter   number:  11 percent: 0.916666666667   Color number: 1  percent: 0.0833333333333   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 10  percent: 0.833333333333   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  16 percent: 0.666666666667   Color number: 11  percent: 0.458333333333   Overall number:  27  percent: 0.5625
+------------------------------------
+
+Participant ID: SSC 4
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 5  percent: 0.416666666667   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 4  percent: 0.333333333333   Overall number:  8  percent: 0.333333333333
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 9  percent: 0.375   Overall number:  20  percent: 0.416666666667
+------------------------------------
+
+Participant ID: SSC 5
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 8  percent: 0.666666666667   Overall number:  16  percent: 0.666666666667
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 7  percent: 0.583333333333   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 15  percent: 0.625   Overall number:  28  percent: 0.583333333333
+------------------------------------
+
+Participant ID: SSC 6
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  12 percent: 0.5   Color number: 12  percent: 0.5   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SSC 7
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 0  percent: 0.0   Overall number:  8  percent: 0.333333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 11  percent: 0.916666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 11  percent: 0.458333333333   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Overall avg 0.503205128205  SD: 0.0663082079025
+Letter avg 0.509615384615  SD: 0.0926720018897
+Color avg 0.496794871795  SD: 0.0986846430663
+Grammatical avg 0.490384615385  SD: 0.151694353413
+Ungrammatical avg 0.516025641026  SD: 0.147575185041Participant ID: SCS 1 re
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 7  percent: 0.583333333333   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 8  percent: 0.666666666667   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 15  percent: 0.625   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 2 re
+Grammatical Items: 
+Letter   number:  9 percent: 0.75   Color number: 5  percent: 0.416666666667   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 4  percent: 0.333333333333   Overall number:  9  percent: 0.375
+
+All Items: 
+Letter   number:  14 percent: 0.583333333333   Color number: 9  percent: 0.375   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SCS 3
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 9  percent: 0.75   Overall number:  16  percent: 0.666666666667
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 15  percent: 0.625   Overall number:  30  percent: 0.625
+------------------------------------
+
+Participant ID: SCS 4
+Grammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 9  percent: 0.75   Overall number:  19  percent: 0.791666666667
+
+Ungrammatical Items: 
+Letter   number:  3 percent: 0.25   Color number: 4  percent: 0.333333333333   Overall number:  7  percent: 0.291666666667
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 13  percent: 0.541666666667   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Participant ID: SCS 5
+Grammatical Items: 
+Letter   number:  1 percent: 0.0833333333333   Color number: 5  percent: 0.416666666667   Overall number:  6  percent: 0.25
+
+Ungrammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 8  percent: 0.666666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 13  percent: 0.541666666667   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 7
+Grammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 8  percent: 0.666666666667   Overall number:  13  percent: 0.541666666667
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 14  percent: 0.583333333333   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SSC 1
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 5  percent: 0.416666666667   Overall number:  7  percent: 0.291666666667
+
+Ungrammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 3  percent: 0.25   Overall number:  11  percent: 0.458333333333
+
+All Items: 
+Letter   number:  10 percent: 0.416666666667   Color number: 8  percent: 0.333333333333   Overall number:  18  percent: 0.375
+------------------------------------
+
+Participant ID: SSC 2
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 2  percent: 0.166666666667   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 8  percent: 0.666666666667   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 10  percent: 0.416666666667   Overall number:  21  percent: 0.4375
+------------------------------------
+
+Participant ID: SSC 3
+Grammatical Items: 
+Letter   number:  11 percent: 0.916666666667   Color number: 1  percent: 0.0833333333333   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 10  percent: 0.833333333333   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  16 percent: 0.666666666667   Color number: 11  percent: 0.458333333333   Overall number:  27  percent: 0.5625
+------------------------------------
+
+Participant ID: SSC 4
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 5  percent: 0.416666666667   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 4  percent: 0.333333333333   Overall number:  8  percent: 0.333333333333
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 9  percent: 0.375   Overall number:  20  percent: 0.416666666667
+------------------------------------
+
+Participant ID: SSC 5
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 8  percent: 0.666666666667   Overall number:  16  percent: 0.666666666667
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 7  percent: 0.583333333333   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 15  percent: 0.625   Overall number:  28  percent: 0.583333333333
+------------------------------------
+
+Participant ID: SSC 6
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  12 percent: 0.5   Color number: 12  percent: 0.5   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SSC 7
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 0  percent: 0.0   Overall number:  8  percent: 0.333333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 11  percent: 0.916666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 11  percent: 0.458333333333   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Overall avg 0.503205128205  SD: 0.0663082079025
+Letter avg 0.509615384615  SD: 0.0926720018897
+Color avg 0.496794871795  SD: 0.0986846430663
+Grammatical avg 0.490384615385  SD: 0.151694353413
+Ungrammatical avg 0.516025641026  SD: 0.147575185041Participant ID: SCS 1 re
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 7  percent: 0.583333333333   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 8  percent: 0.666666666667   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 15  percent: 0.625   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 2 re
+Grammatical Items: 
+Letter   number:  9 percent: 0.75   Color number: 5  percent: 0.416666666667   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 4  percent: 0.333333333333   Overall number:  9  percent: 0.375
+
+All Items: 
+Letter   number:  14 percent: 0.583333333333   Color number: 9  percent: 0.375   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SCS 3
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 9  percent: 0.75   Overall number:  16  percent: 0.666666666667
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 15  percent: 0.625   Overall number:  30  percent: 0.625
+------------------------------------
+
+Participant ID: SCS 4
+Grammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 9  percent: 0.75   Overall number:  19  percent: 0.791666666667
+
+Ungrammatical Items: 
+Letter   number:  3 percent: 0.25   Color number: 4  percent: 0.333333333333   Overall number:  7  percent: 0.291666666667
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 13  percent: 0.541666666667   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Participant ID: SCS 5
+Grammatical Items: 
+Letter   number:  1 percent: 0.0833333333333   Color number: 5  percent: 0.416666666667   Overall number:  6  percent: 0.25
+
+Ungrammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 8  percent: 0.666666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 13  percent: 0.541666666667   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 7
+Grammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 8  percent: 0.666666666667   Overall number:  13  percent: 0.541666666667
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 14  percent: 0.583333333333   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SSC 1
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 5  percent: 0.416666666667   Overall number:  7  percent: 0.291666666667
+
+Ungrammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 3  percent: 0.25   Overall number:  11  percent: 0.458333333333
+
+All Items: 
+Letter   number:  10 percent: 0.416666666667   Color number: 8  percent: 0.333333333333   Overall number:  18  percent: 0.375
+------------------------------------
+
+Participant ID: SSC 2
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 2  percent: 0.166666666667   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 8  percent: 0.666666666667   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 10  percent: 0.416666666667   Overall number:  21  percent: 0.4375
+------------------------------------
+
+Participant ID: SSC 3
+Grammatical Items: 
+Letter   number:  11 percent: 0.916666666667   Color number: 1  percent: 0.0833333333333   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 10  percent: 0.833333333333   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  16 percent: 0.666666666667   Color number: 11  percent: 0.458333333333   Overall number:  27  percent: 0.5625
+------------------------------------
+
+Participant ID: SSC 4
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 5  percent: 0.416666666667   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 4  percent: 0.333333333333   Overall number:  8  percent: 0.333333333333
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 9  percent: 0.375   Overall number:  20  percent: 0.416666666667
+------------------------------------
+
+Participant ID: SSC 5
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 8  percent: 0.666666666667   Overall number:  16  percent: 0.666666666667
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 7  percent: 0.583333333333   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 15  percent: 0.625   Overall number:  28  percent: 0.583333333333
+------------------------------------
+
+Participant ID: SSC 6
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  12 percent: 0.5   Color number: 12  percent: 0.5   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SSC 7
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 0  percent: 0.0   Overall number:  8  percent: 0.333333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 11  percent: 0.916666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 11  percent: 0.458333333333   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Overall avg 0.503205128205  SD: 0.0663082079025
+Letter avg 0.509615384615  SD: 0.0926720018897
+Color avg 0.496794871795  SD: 0.0986846430663
+Grammatical avg 0.490384615385  SD: 0.151694353413
+Ungrammatical avg 0.516025641026  SD: 0.147575185041Participant ID: SCS 1 re
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 7  percent: 0.583333333333   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 8  percent: 0.666666666667   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 15  percent: 0.625   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 2 re
+Grammatical Items: 
+Letter   number:  9 percent: 0.75   Color number: 5  percent: 0.416666666667   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 4  percent: 0.333333333333   Overall number:  9  percent: 0.375
+
+All Items: 
+Letter   number:  14 percent: 0.583333333333   Color number: 9  percent: 0.375   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SCS 3
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 9  percent: 0.75   Overall number:  16  percent: 0.666666666667
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 15  percent: 0.625   Overall number:  30  percent: 0.625
+------------------------------------
+
+Participant ID: SCS 4
+Grammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 9  percent: 0.75   Overall number:  19  percent: 0.791666666667
+
+Ungrammatical Items: 
+Letter   number:  3 percent: 0.25   Color number: 4  percent: 0.333333333333   Overall number:  7  percent: 0.291666666667
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 13  percent: 0.541666666667   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Participant ID: SCS 5
+Grammatical Items: 
+Letter   number:  1 percent: 0.0833333333333   Color number: 5  percent: 0.416666666667   Overall number:  6  percent: 0.25
+
+Ungrammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 8  percent: 0.666666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 13  percent: 0.541666666667   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 7
+Grammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 8  percent: 0.666666666667   Overall number:  13  percent: 0.541666666667
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 14  percent: 0.583333333333   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SSC 1
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 5  percent: 0.416666666667   Overall number:  7  percent: 0.291666666667
+
+Ungrammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 3  percent: 0.25   Overall number:  11  percent: 0.458333333333
+
+All Items: 
+Letter   number:  10 percent: 0.416666666667   Color number: 8  percent: 0.333333333333   Overall number:  18  percent: 0.375
+------------------------------------
+
+Participant ID: SSC 2
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 2  percent: 0.166666666667   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 8  percent: 0.666666666667   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 10  percent: 0.416666666667   Overall number:  21  percent: 0.4375
+------------------------------------
+
+Participant ID: SSC 3
+Grammatical Items: 
+Letter   number:  11 percent: 0.916666666667   Color number: 1  percent: 0.0833333333333   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 10  percent: 0.833333333333   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  16 percent: 0.666666666667   Color number: 11  percent: 0.458333333333   Overall number:  27  percent: 0.5625
+------------------------------------
+
+Participant ID: SSC 4
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 5  percent: 0.416666666667   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 4  percent: 0.333333333333   Overall number:  8  percent: 0.333333333333
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 9  percent: 0.375   Overall number:  20  percent: 0.416666666667
+------------------------------------
+
+Participant ID: SSC 5
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 8  percent: 0.666666666667   Overall number:  16  percent: 0.666666666667
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 7  percent: 0.583333333333   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 15  percent: 0.625   Overall number:  28  percent: 0.583333333333
+------------------------------------
+
+Participant ID: SSC 6
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  12 percent: 0.5   Color number: 12  percent: 0.5   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SSC 7
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 0  percent: 0.0   Overall number:  8  percent: 0.333333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 11  percent: 0.916666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 11  percent: 0.458333333333   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Overall avg 0.503205128205  SD: 0.0663082079025
+Letter avg 0.509615384615  SD: 0.0926720018897
+Color avg 0.496794871795  SD: 0.0986846430663
+Grammatical avg 0.490384615385  SD: 0.151694353413
+Ungrammatical avg 0.516025641026  SD: 0.147575185041Participant ID: SCS 1 re
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 7  percent: 0.583333333333   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 8  percent: 0.666666666667   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 15  percent: 0.625   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 2 re
+Grammatical Items: 
+Letter   number:  9 percent: 0.75   Color number: 5  percent: 0.416666666667   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 4  percent: 0.333333333333   Overall number:  9  percent: 0.375
+
+All Items: 
+Letter   number:  14 percent: 0.583333333333   Color number: 9  percent: 0.375   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SCS 3
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 9  percent: 0.75   Overall number:  16  percent: 0.666666666667
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 15  percent: 0.625   Overall number:  30  percent: 0.625
+------------------------------------
+
+Participant ID: SCS 4
+Grammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 9  percent: 0.75   Overall number:  19  percent: 0.791666666667
+
+Ungrammatical Items: 
+Letter   number:  3 percent: 0.25   Color number: 4  percent: 0.333333333333   Overall number:  7  percent: 0.291666666667
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 13  percent: 0.541666666667   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Participant ID: SCS 5
+Grammatical Items: 
+Letter   number:  1 percent: 0.0833333333333   Color number: 5  percent: 0.416666666667   Overall number:  6  percent: 0.25
+
+Ungrammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 8  percent: 0.666666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 13  percent: 0.541666666667   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 7
+Grammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 8  percent: 0.666666666667   Overall number:  13  percent: 0.541666666667
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 14  percent: 0.583333333333   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SSC 1
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 5  percent: 0.416666666667   Overall number:  7  percent: 0.291666666667
+
+Ungrammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 3  percent: 0.25   Overall number:  11  percent: 0.458333333333
+
+All Items: 
+Letter   number:  10 percent: 0.416666666667   Color number: 8  percent: 0.333333333333   Overall number:  18  percent: 0.375
+------------------------------------
+
+Participant ID: SSC 2
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 2  percent: 0.166666666667   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 8  percent: 0.666666666667   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 10  percent: 0.416666666667   Overall number:  21  percent: 0.4375
+------------------------------------
+
+Participant ID: SSC 3
+Grammatical Items: 
+Letter   number:  11 percent: 0.916666666667   Color number: 1  percent: 0.0833333333333   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 10  percent: 0.833333333333   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  16 percent: 0.666666666667   Color number: 11  percent: 0.458333333333   Overall number:  27  percent: 0.5625
+------------------------------------
+
+Participant ID: SSC 4
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 5  percent: 0.416666666667   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 4  percent: 0.333333333333   Overall number:  8  percent: 0.333333333333
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 9  percent: 0.375   Overall number:  20  percent: 0.416666666667
+------------------------------------
+
+Participant ID: SSC 5
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 8  percent: 0.666666666667   Overall number:  16  percent: 0.666666666667
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 7  percent: 0.583333333333   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 15  percent: 0.625   Overall number:  28  percent: 0.583333333333
+------------------------------------
+
+Participant ID: SSC 6
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  12 percent: 0.5   Color number: 12  percent: 0.5   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SSC 7
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 0  percent: 0.0   Overall number:  8  percent: 0.333333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 11  percent: 0.916666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 11  percent: 0.458333333333   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Overall avg 0.503205128205  SD: 0.0663082079025
+Letter avg 0.509615384615  SD: 0.0926720018897
+Color avg 0.496794871795  SD: 0.0986846430663
+Grammatical avg 0.490384615385  SD: 0.151694353413
+Ungrammatical avg 0.516025641026  SD: 0.147575185041Participant ID: SCS 1 re
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 7  percent: 0.583333333333   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 8  percent: 0.666666666667   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 15  percent: 0.625   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 2 re
+Grammatical Items: 
+Letter   number:  9 percent: 0.75   Color number: 5  percent: 0.416666666667   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 4  percent: 0.333333333333   Overall number:  9  percent: 0.375
+
+All Items: 
+Letter   number:  14 percent: 0.583333333333   Color number: 9  percent: 0.375   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SCS 3
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 9  percent: 0.75   Overall number:  16  percent: 0.666666666667
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 15  percent: 0.625   Overall number:  30  percent: 0.625
+------------------------------------
+
+Participant ID: SCS 4
+Grammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 9  percent: 0.75   Overall number:  19  percent: 0.791666666667
+
+Ungrammatical Items: 
+Letter   number:  3 percent: 0.25   Color number: 4  percent: 0.333333333333   Overall number:  7  percent: 0.291666666667
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 13  percent: 0.541666666667   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Participant ID: SCS 5
+Grammatical Items: 
+Letter   number:  1 percent: 0.0833333333333   Color number: 5  percent: 0.416666666667   Overall number:  6  percent: 0.25
+
+Ungrammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 8  percent: 0.666666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 13  percent: 0.541666666667   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 7
+Grammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 8  percent: 0.666666666667   Overall number:  13  percent: 0.541666666667
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 14  percent: 0.583333333333   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SSC 1
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 5  percent: 0.416666666667   Overall number:  7  percent: 0.291666666667
+
+Ungrammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 3  percent: 0.25   Overall number:  11  percent: 0.458333333333
+
+All Items: 
+Letter   number:  10 percent: 0.416666666667   Color number: 8  percent: 0.333333333333   Overall number:  18  percent: 0.375
+------------------------------------
+
+Participant ID: SSC 2
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 2  percent: 0.166666666667   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 8  percent: 0.666666666667   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 10  percent: 0.416666666667   Overall number:  21  percent: 0.4375
+------------------------------------
+
+Participant ID: SSC 3
+Grammatical Items: 
+Letter   number:  11 percent: 0.916666666667   Color number: 1  percent: 0.0833333333333   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 10  percent: 0.833333333333   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  16 percent: 0.666666666667   Color number: 11  percent: 0.458333333333   Overall number:  27  percent: 0.5625
+------------------------------------
+
+Participant ID: SSC 4
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 5  percent: 0.416666666667   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 4  percent: 0.333333333333   Overall number:  8  percent: 0.333333333333
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 9  percent: 0.375   Overall number:  20  percent: 0.416666666667
+------------------------------------
+
+Participant ID: SSC 5
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 8  percent: 0.666666666667   Overall number:  16  percent: 0.666666666667
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 7  percent: 0.583333333333   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 15  percent: 0.625   Overall number:  28  percent: 0.583333333333
+------------------------------------
+
+Participant ID: SSC 6
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  12 percent: 0.5   Color number: 12  percent: 0.5   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SSC 7
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 0  percent: 0.0   Overall number:  8  percent: 0.333333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 11  percent: 0.916666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 11  percent: 0.458333333333   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Overall avg 0.503205128205  SD: 0.0663082079025
+Letter avg 0.509615384615  SD: 0.0926720018897
+Color avg 0.496794871795  SD: 0.0986846430663
+Grammatical avg 0.490384615385  SD: 0.151694353413
+Ungrammatical avg 0.516025641026  SD: 0.147575185041Participant ID: SCS 1 re
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 7  percent: 0.583333333333   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 8  percent: 0.666666666667   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 15  percent: 0.625   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 2 re
+Grammatical Items: 
+Letter   number:  9 percent: 0.75   Color number: 5  percent: 0.416666666667   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 4  percent: 0.333333333333   Overall number:  9  percent: 0.375
+
+All Items: 
+Letter   number:  14 percent: 0.583333333333   Color number: 9  percent: 0.375   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SCS 3
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 9  percent: 0.75   Overall number:  16  percent: 0.666666666667
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 15  percent: 0.625   Overall number:  30  percent: 0.625
+------------------------------------
+
+Participant ID: SCS 4
+Grammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 9  percent: 0.75   Overall number:  19  percent: 0.791666666667
+
+Ungrammatical Items: 
+Letter   number:  3 percent: 0.25   Color number: 4  percent: 0.333333333333   Overall number:  7  percent: 0.291666666667
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 13  percent: 0.541666666667   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Participant ID: SCS 5
+Grammatical Items: 
+Letter   number:  1 percent: 0.0833333333333   Color number: 5  percent: 0.416666666667   Overall number:  6  percent: 0.25
+
+Ungrammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 8  percent: 0.666666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 13  percent: 0.541666666667   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 7
+Grammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 8  percent: 0.666666666667   Overall number:  13  percent: 0.541666666667
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 14  percent: 0.583333333333   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SSC 1
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 5  percent: 0.416666666667   Overall number:  7  percent: 0.291666666667
+
+Ungrammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 3  percent: 0.25   Overall number:  11  percent: 0.458333333333
+
+All Items: 
+Letter   number:  10 percent: 0.416666666667   Color number: 8  percent: 0.333333333333   Overall number:  18  percent: 0.375
+------------------------------------
+
+Participant ID: SSC 2
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 2  percent: 0.166666666667   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 8  percent: 0.666666666667   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 10  percent: 0.416666666667   Overall number:  21  percent: 0.4375
+------------------------------------
+
+Participant ID: SSC 3
+Grammatical Items: 
+Letter   number:  11 percent: 0.916666666667   Color number: 1  percent: 0.0833333333333   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 10  percent: 0.833333333333   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  16 percent: 0.666666666667   Color number: 11  percent: 0.458333333333   Overall number:  27  percent: 0.5625
+------------------------------------
+
+Participant ID: SSC 4
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 5  percent: 0.416666666667   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 4  percent: 0.333333333333   Overall number:  8  percent: 0.333333333333
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 9  percent: 0.375   Overall number:  20  percent: 0.416666666667
+------------------------------------
+
+Participant ID: SSC 5
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 8  percent: 0.666666666667   Overall number:  16  percent: 0.666666666667
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 7  percent: 0.583333333333   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 15  percent: 0.625   Overall number:  28  percent: 0.583333333333
+------------------------------------
+
+Participant ID: SSC 6
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  12 percent: 0.5   Color number: 12  percent: 0.5   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SSC 7
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 0  percent: 0.0   Overall number:  8  percent: 0.333333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 11  percent: 0.916666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 11  percent: 0.458333333333   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Overall avg 0.503205128205  SD: 0.0663082079025
+Letter avg 0.509615384615  SD: 0.0926720018897
+Color avg 0.496794871795  SD: 0.0986846430663
+Grammatical avg 0.490384615385  SD: 0.151694353413
+Ungrammatical avg 0.516025641026  SD: 0.147575185041Participant ID: SCS 1 re
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 7  percent: 0.583333333333   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 8  percent: 0.666666666667   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 15  percent: 0.625   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 2 re
+Grammatical Items: 
+Letter   number:  9 percent: 0.75   Color number: 5  percent: 0.416666666667   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 4  percent: 0.333333333333   Overall number:  9  percent: 0.375
+
+All Items: 
+Letter   number:  14 percent: 0.583333333333   Color number: 9  percent: 0.375   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SCS 3
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 9  percent: 0.75   Overall number:  16  percent: 0.666666666667
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 15  percent: 0.625   Overall number:  30  percent: 0.625
+------------------------------------
+
+Participant ID: SCS 4
+Grammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 9  percent: 0.75   Overall number:  19  percent: 0.791666666667
+
+Ungrammatical Items: 
+Letter   number:  3 percent: 0.25   Color number: 4  percent: 0.333333333333   Overall number:  7  percent: 0.291666666667
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 13  percent: 0.541666666667   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Participant ID: SCS 5
+Grammatical Items: 
+Letter   number:  1 percent: 0.0833333333333   Color number: 5  percent: 0.416666666667   Overall number:  6  percent: 0.25
+
+Ungrammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 8  percent: 0.666666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 13  percent: 0.541666666667   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 7
+Grammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 8  percent: 0.666666666667   Overall number:  13  percent: 0.541666666667
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 14  percent: 0.583333333333   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SSC 1
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 5  percent: 0.416666666667   Overall number:  7  percent: 0.291666666667
+
+Ungrammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 3  percent: 0.25   Overall number:  11  percent: 0.458333333333
+
+All Items: 
+Letter   number:  10 percent: 0.416666666667   Color number: 8  percent: 0.333333333333   Overall number:  18  percent: 0.375
+------------------------------------
+
+Participant ID: SSC 2
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 2  percent: 0.166666666667   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 8  percent: 0.666666666667   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 10  percent: 0.416666666667   Overall number:  21  percent: 0.4375
+------------------------------------
+
+Participant ID: SSC 3
+Grammatical Items: 
+Letter   number:  11 percent: 0.916666666667   Color number: 1  percent: 0.0833333333333   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 10  percent: 0.833333333333   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  16 percent: 0.666666666667   Color number: 11  percent: 0.458333333333   Overall number:  27  percent: 0.5625
+------------------------------------
+
+Participant ID: SSC 4
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 5  percent: 0.416666666667   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 4  percent: 0.333333333333   Overall number:  8  percent: 0.333333333333
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 9  percent: 0.375   Overall number:  20  percent: 0.416666666667
+------------------------------------
+
+Participant ID: SSC 5
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 8  percent: 0.666666666667   Overall number:  16  percent: 0.666666666667
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 7  percent: 0.583333333333   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 15  percent: 0.625   Overall number:  28  percent: 0.583333333333
+------------------------------------
+
+Participant ID: SSC 6
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  12 percent: 0.5   Color number: 12  percent: 0.5   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SSC 7
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 0  percent: 0.0   Overall number:  8  percent: 0.333333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 11  percent: 0.916666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 11  percent: 0.458333333333   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Overall avg 0.503205128205  SD: 0.0663082079025
+Letter avg 0.509615384615  SD: 0.0926720018897
+Color avg 0.496794871795  SD: 0.0986846430663
+Grammatical avg 0.490384615385  SD: 0.151694353413
+Ungrammatical avg 0.516025641026  SD: 0.147575185041Participant ID: SCS 1 re
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 7  percent: 0.583333333333   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 8  percent: 0.666666666667   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 15  percent: 0.625   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 2 re
+Grammatical Items: 
+Letter   number:  9 percent: 0.75   Color number: 5  percent: 0.416666666667   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 4  percent: 0.333333333333   Overall number:  9  percent: 0.375
+
+All Items: 
+Letter   number:  14 percent: 0.583333333333   Color number: 9  percent: 0.375   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SCS 3
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 9  percent: 0.75   Overall number:  16  percent: 0.666666666667
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 15  percent: 0.625   Overall number:  30  percent: 0.625
+------------------------------------
+
+Participant ID: SCS 4
+Grammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 9  percent: 0.75   Overall number:  19  percent: 0.791666666667
+
+Ungrammatical Items: 
+Letter   number:  3 percent: 0.25   Color number: 4  percent: 0.333333333333   Overall number:  7  percent: 0.291666666667
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 13  percent: 0.541666666667   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Participant ID: SCS 5
+Grammatical Items: 
+Letter   number:  1 percent: 0.0833333333333   Color number: 5  percent: 0.416666666667   Overall number:  6  percent: 0.25
+
+Ungrammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 8  percent: 0.666666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 13  percent: 0.541666666667   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 7
+Grammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 8  percent: 0.666666666667   Overall number:  13  percent: 0.541666666667
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 14  percent: 0.583333333333   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SSC 1
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 5  percent: 0.416666666667   Overall number:  7  percent: 0.291666666667
+
+Ungrammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 3  percent: 0.25   Overall number:  11  percent: 0.458333333333
+
+All Items: 
+Letter   number:  10 percent: 0.416666666667   Color number: 8  percent: 0.333333333333   Overall number:  18  percent: 0.375
+------------------------------------
+
+Participant ID: SSC 2
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 2  percent: 0.166666666667   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 8  percent: 0.666666666667   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 10  percent: 0.416666666667   Overall number:  21  percent: 0.4375
+------------------------------------
+
+Participant ID: SSC 3
+Grammatical Items: 
+Letter   number:  11 percent: 0.916666666667   Color number: 1  percent: 0.0833333333333   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 10  percent: 0.833333333333   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  16 percent: 0.666666666667   Color number: 11  percent: 0.458333333333   Overall number:  27  percent: 0.5625
+------------------------------------
+
+Participant ID: SSC 4
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 5  percent: 0.416666666667   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 4  percent: 0.333333333333   Overall number:  8  percent: 0.333333333333
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 9  percent: 0.375   Overall number:  20  percent: 0.416666666667
+------------------------------------
+
+Participant ID: SSC 5
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 8  percent: 0.666666666667   Overall number:  16  percent: 0.666666666667
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 7  percent: 0.583333333333   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 15  percent: 0.625   Overall number:  28  percent: 0.583333333333
+------------------------------------
+
+Participant ID: SSC 6
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  12 percent: 0.5   Color number: 12  percent: 0.5   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SSC 7
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 0  percent: 0.0   Overall number:  8  percent: 0.333333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 11  percent: 0.916666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 11  percent: 0.458333333333   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Overall avg 0.503205128205  SD: 0.0663082079025
+Letter avg 0.509615384615  SD: 0.0926720018897
+Color avg 0.496794871795  SD: 0.0986846430663
+Grammatical avg 0.490384615385  SD: 0.151694353413
+Ungrammatical avg 0.516025641026  SD: 0.147575185041Participant ID: SCS 1 re
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 7  percent: 0.583333333333   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 8  percent: 0.666666666667   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 15  percent: 0.625   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 2 re
+Grammatical Items: 
+Letter   number:  9 percent: 0.75   Color number: 5  percent: 0.416666666667   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 4  percent: 0.333333333333   Overall number:  9  percent: 0.375
+
+All Items: 
+Letter   number:  14 percent: 0.583333333333   Color number: 9  percent: 0.375   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SCS 3
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 9  percent: 0.75   Overall number:  16  percent: 0.666666666667
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 15  percent: 0.625   Overall number:  30  percent: 0.625
+------------------------------------
+
+Participant ID: SCS 4
+Grammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 9  percent: 0.75   Overall number:  19  percent: 0.791666666667
+
+Ungrammatical Items: 
+Letter   number:  3 percent: 0.25   Color number: 4  percent: 0.333333333333   Overall number:  7  percent: 0.291666666667
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 13  percent: 0.541666666667   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Participant ID: SCS 5
+Grammatical Items: 
+Letter   number:  1 percent: 0.0833333333333   Color number: 5  percent: 0.416666666667   Overall number:  6  percent: 0.25
+
+Ungrammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 8  percent: 0.666666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 13  percent: 0.541666666667   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SCS 7
+Grammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 8  percent: 0.666666666667   Overall number:  13  percent: 0.541666666667
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 14  percent: 0.583333333333   Overall number:  23  percent: 0.479166666667
+------------------------------------
+
+Participant ID: SSC 1
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 5  percent: 0.416666666667   Overall number:  7  percent: 0.291666666667
+
+Ungrammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 3  percent: 0.25   Overall number:  11  percent: 0.458333333333
+
+All Items: 
+Letter   number:  10 percent: 0.416666666667   Color number: 8  percent: 0.333333333333   Overall number:  18  percent: 0.375
+------------------------------------
+
+Participant ID: SSC 2
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 2  percent: 0.166666666667   Overall number:  9  percent: 0.375
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 8  percent: 0.666666666667   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 10  percent: 0.416666666667   Overall number:  21  percent: 0.4375
+------------------------------------
+
+Participant ID: SSC 3
+Grammatical Items: 
+Letter   number:  11 percent: 0.916666666667   Color number: 1  percent: 0.0833333333333   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 10  percent: 0.833333333333   Overall number:  15  percent: 0.625
+
+All Items: 
+Letter   number:  16 percent: 0.666666666667   Color number: 11  percent: 0.458333333333   Overall number:  27  percent: 0.5625
+------------------------------------
+
+Participant ID: SSC 4
+Grammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 5  percent: 0.416666666667   Overall number:  12  percent: 0.5
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 4  percent: 0.333333333333   Overall number:  8  percent: 0.333333333333
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 9  percent: 0.375   Overall number:  20  percent: 0.416666666667
+------------------------------------
+
+Participant ID: SSC 5
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 8  percent: 0.666666666667   Overall number:  16  percent: 0.666666666667
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 7  percent: 0.583333333333   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 15  percent: 0.625   Overall number:  28  percent: 0.583333333333
+------------------------------------
+
+Participant ID: SSC 6
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 6  percent: 0.5   Overall number:  14  percent: 0.583333333333
+
+Ungrammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 6  percent: 0.5   Overall number:  10  percent: 0.416666666667
+
+All Items: 
+Letter   number:  12 percent: 0.5   Color number: 12  percent: 0.5   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: SSC 7
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 0  percent: 0.0   Overall number:  8  percent: 0.333333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 11  percent: 0.916666666667   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  15 percent: 0.625   Color number: 11  percent: 0.458333333333   Overall number:  26  percent: 0.541666666667
+------------------------------------
+
+Overall avg 0.503205128205  SD: 0.0663082079025
+Letter avg 0.509615384615  SD: 0.0926720018897
+Color avg 0.496794871795  SD: 0.0986846430663
+Grammatical avg 0.490384615385  SD: 0.151694353413
+Ungrammatical avg 0.516025641026  SD: 0.147575185041
