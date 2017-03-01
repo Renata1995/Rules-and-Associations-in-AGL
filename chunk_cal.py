@@ -4,8 +4,8 @@ import distance as dist
 from Manipulation.chunks import CSCalculator
 from utils import helper_methods as helper
 
-re_stimuli = dist.get_stimuli("materials/learning/RE.txt")
-cfg_stimuli = dist.get_stimuli("materials/learning/CFG.txt")
+re_stimuli = helper.get_learning_items("RE")
+cfg_stimuli = helper.get_learning_items("CFG")
 
 # init two CSCalculators
 re_cs = CSCalculator(re_stimuli)
@@ -14,8 +14,9 @@ cfg_cs = CSCalculator(cfg_stimuli)
 # find all possible strings with length 5 to length 8 inclusively
 all_str = []
 for num in range(5, 9):
-    all_str.extend(helper.generate_strings(num))
+    all_str.extend(helper.all_str_with_length(num))
 
+# Calculate
 vlist = []
 file = open("re_cs_test.txt","w")
 for item in all_str:

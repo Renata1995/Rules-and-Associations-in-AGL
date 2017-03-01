@@ -7,7 +7,7 @@ class Participant:
         self.age = age
         self.gender = gender
 
-        # Response in the learning session.
+        # Response in the grammar session.
         # A list of LearningDataEntry objects
         self.learning_session_input = []
 

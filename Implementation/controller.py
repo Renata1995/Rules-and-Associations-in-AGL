@@ -14,9 +14,9 @@ class WebApp(object):
     @cherrypy.expose
     def index(self):
         """
-        Show all conditions of the experiment. The experimenter selects a condition for the participant
+        Show all conditions of the experiment. The experimenter selects a grammar for the participant
         """
-        ifile = open("view/condition.html")
+        ifile = open("view/grammar.html")
         content = ifile.readlines()
         return self.get_head() + content
 

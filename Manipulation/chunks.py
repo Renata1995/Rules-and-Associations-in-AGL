@@ -8,7 +8,7 @@ class CSCalculator:
     Chunk strength is defined as the sum of frequency of each chunk divided by the number of chunks
 
     I.e.
-    In the string "ABBAC" , chunks and assumed frequency of each chunk in the learning session are listed.
+    In the string "ABBAC" , chunks and assumed frequency of each chunk in the grammar session are listed.
     {"AB": 2, "BB": 3", "BA": 2, "AC": 1, "ABB":0, "BBA": 3, "BAC":1}
     Chunk strength of "ABBAC" = the sum of frequency of each chunk/ the number of chunks
     = (2 + 3 + 2 + 1 + 0 + 3 + 1)/7 = 1.71
@@ -16,8 +16,8 @@ class CSCalculator:
 
     def __init__(self, learning_items):
         """
-        Input all items in a learning session to init a CSCalculator object
-        :param learning_items: a list of learning items
+        Input all items in a grammar session to init a CSCalculator object
+        :param learning_items: a list of grammar items
         :type learning_items: a list of strings
 
         self.chunk_dict: the dictionary of all chunks and corresponding frequency
@@ -126,7 +126,7 @@ class CSCalculator:
 
     def chunk_frequency(self, chunk):
         """
-        Calculate the frequency of a chunk in the learning session.
+        Calculate the frequency of a chunk in the grammar session.
 
         i.e.
         Input: "AB"
@@ -147,7 +147,7 @@ class CSCalculator:
         Chunk strength is defined as the sum of frequency of each bigram or trigram divided by the number of chunks
 
         I.e.
-        In the string "ABBAC" , chunks and assumed frequency of each chunk in the learning session are listed.
+        In the string "ABBAC" , chunks and assumed frequency of each chunk in the grammar session are listed.
         {"AB": 2, "BB": 3", "BA": 2, "AC": 1, "ABB":0, "BBA": 3, "BAC":1}
         Chunk strength of "ABBAC" = the sum of frequency of each chunk/ the number of chunks
         = (2 + 3 + 2 + 1 + 0 + 3 + 1)/7 = 1.71
@@ -160,7 +160,7 @@ class CSCalculator:
         # Get all trigrams in
         clist.extend(self.gen_trigrams(test_string))
 
-        # Find frequency of each chunk in the learning session
+        # Find frequency of each chunk in the grammar session
         freq_list = []
         for item in clist:
             freq_list.append(self.chunk_frequency(item))

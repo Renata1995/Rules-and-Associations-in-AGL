@@ -6,15 +6,15 @@ class TestDataEntry:
 
     - pid: ID of the Participant owner
 
-    - grammar: The grammar experimental condition. Values: RE_SCS or CFG_SCS
+    - grammar: The grammar experimental grammar. Values: RE_SCS or CFG_SCS
 
     - s_type: Indicate whether the stimulus type is "Color" or "String/Letter"
 
     - order: The order variable consists of three letters, such as "LCL". L stands for "Letter" and C stands for "Color"
-            The first letter indicates whether the training session has color items or letter items.
+            The first letter indicates whether the grammar session has color items or letter items.
             The test session contains both color and letter items. The order of the second and third letter indicates
             whether color items goes first or letter items goes first.
-            i.e. "LCL" means: a)the training phase has letter items  b) the test session has color items first and
+            i.e. "LCL" means: a)the grammar phase has letter items  b) the test session has color items first and
              then letter items
 
     - response: Response of a given participants. Possible values: 1,2,3,4
@@ -45,7 +45,7 @@ class TestDataEntry:
 
 class LearningDataEntry:
     """
-    A LearningDataEntry object contains a given participant's learning performance on a set of stimuli
+    A LearningDataEntry object contains a given participant's grammar performance on a set of stimuli
     """
     def __init__(self, trials, reaction_time, num_of_stimuli):
         self.trials = trials

@@ -32,7 +32,7 @@ class InfoExtractor:
         # open the raw data file
         ifile = open(filename)
 
-        # skip data at the learning session
+        # skip data at the grammar session
         current = ifile.readline()
         while "Middle Instruction 2" not in current:
             current = ifile.readline()
@@ -141,15 +141,15 @@ class TestDataEntry:
     """
     The TestDataEntry class contains information about each participant's performance.
     Variables:
-    - grammar: The grammar experimental condition. Values: RE_SCS or CFG_SCS
+    - grammar: The grammar experimental grammar. Values: RE_SCS or CFG_SCS
 
     - s_type: Indicate whether the stimulus type is "Color" or "String/Letter"
 
     - order: The order variable consists of three letters, such as "LCL". L stands for "Letter" and C stands for "Color"
-            The first letter indicates whether the training session has color items or letter items.
+            The first letter indicates whether the grammar session has color items or letter items.
             The test session contains both color and letter items. The order of the second and third letter indicates
             whether color items goes first or letter items goes first.
-            i.e. "LCL" means: a)the training phase has letter items  b) the test session has color items first and
+            i.e. "LCL" means: a)the grammar phase has letter items  b) the test session has color items first and
              then letter items
 
     - stimulus: ID of the stimulus

@@ -1,19 +1,20 @@
 import os
 import sys
-
 from nltk import CFG, nonterminals, RecursiveDescentParser
-
 import distance as dist
 from Manipulation.chunks import CSCalculator
-from utils import helper_methods as sg
+from utils import helper_methods as helper
 
+"""
+python test_items_generator.py grammar
+"""
 if len(sys.argv) <= 1:
-    training = "RE_SCS.txt"
+    grammar = "RE"
 else:
-    if sys.argv[1] == "R":
-        training = "RE_SCS.txt"
+    if sys.argv[1] == "C":
+        grammar = "CFG"
     else:
-        training = "CFG_SCS.txt"
+        grammar = "RE"
 
 if len(sys.argv) <= 2:
     items_after_dist = "re_dist_ge2.txt"
@@ -33,7 +34,7 @@ else:
     else:
         cs_groups = "cfg_csgroups.txt"
 
-
+# Two grammars
 re_grammar = "^[AD]*(BA|BD(A|B)*D|C(A|B)*D)$"
 S, X, T = nonterminals("S, X, T")
 cfg = CFG.fromstring("""
@@ -46,11 +47,11 @@ rd_parser = RecursiveDescentParser(cfg)
 # Generate all strings with 5 to 8 letters
 allstr = []
 for num in range(5, 9):
-    allstr.extend(sg.generate_strings(num))
+    allstr.extend(helper.all_str_with_length(num))
 
 # -----------------------------------------------------------
 # Get Training List
-stimuli = dist.get_stimuli(training)
+stimuli = helper.get_learning_items(grammar)
 
 # Create two cs_calculators
 cs_cal = CSCalculator(stimuli)
