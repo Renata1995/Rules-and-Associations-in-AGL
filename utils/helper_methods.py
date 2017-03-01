@@ -1,6 +1,5 @@
 from Queue import Queue
 
-
 def generate_strings(num):
     chars = ["A", "B", "C", "D"]
     all_strings = Queue()

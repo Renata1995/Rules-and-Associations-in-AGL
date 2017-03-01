@@ -1,10 +1,4 @@
-import str_gen as sg
 import distance as dist
-import os
-import re
-import sys
-from nltk import CFG, nonterminals, RecursiveDescentParser
-from Manipulation.chunks import ChunkStrengthCal
 
 stimuli = dist.get_stimuli("CFG_SCS.txt")
 

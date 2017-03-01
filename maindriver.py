@@ -1,10 +1,11 @@
-import str_gen as sg
-import distance as dist
 import os
-import re
 import sys
+
 from nltk import CFG, nonterminals, RecursiveDescentParser
-from Manipulation.chunks import ChunkStrengthCal
+
+import distance as dist
+from Manipulation.chunks import CSCalculator
+from utils import helper_methods as sg
 
 if len(sys.argv) <= 1:
     training = "RE_SCS.txt"
@@ -52,7 +53,7 @@ for num in range(5, 9):
 stimuli = dist.get_stimuli(training)
 
 # Create two cs_calculators
-cs_cal = ChunkStrengthCal(stimuli)
+cs_cal = CSCalculator(stimuli)
 
 # Open output file
 after_dist = []
@@ -73,7 +74,7 @@ else:
 gitems = [[],[],[]]
 ugitems = [[],[],[]]
 for item in after_dist:
-    cs = cs_cal.avg_cs(item)
+    cs = cs_cal.chunk_strength(item)
     # if re.findall(re_grammar,item):
     #     itemlist = gitems
     # else:
