@@ -6,7 +6,7 @@ class TestDataEntry:
 
     - pid: ID of the Participant owner
 
-    - grammar: The grammar experimental condition. Values: RE or CFG
+    - grammar: The grammar experimental condition. Values: RE_SCS or CFG_SCS
 
     - s_type: Indicate whether the stimulus type is "Color" or "String/Letter"
 

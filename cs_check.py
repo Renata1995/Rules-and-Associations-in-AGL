@@ -6,7 +6,7 @@ import sys
 from nltk import CFG, nonterminals, RecursiveDescentParser
 from Manipulation.chunks import ChunkStrengthCal
 
-stimuli = dist.get_stimuli("CFG.txt")
+stimuli = dist.get_stimuli("CFG_SCS.txt")
 
 string = """
 BCDBA

@@ -141,7 +141,7 @@ class TestDataEntry:
     """
     The TestDataEntry class contains information about each participant's performance.
     Variables:
-    - grammar: The grammar experimental condition. Values: RE or CFG
+    - grammar: The grammar experimental condition. Values: RE_SCS or CFG_SCS
 
     - s_type: Indicate whether the stimulus type is "Color" or "String/Letter"
 

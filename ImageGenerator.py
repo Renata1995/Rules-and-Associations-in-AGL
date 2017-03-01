@@ -45,13 +45,13 @@ def gen_image(letters, filename):
         draw.ellipse((x1, y1, x2, y2), fill=color, outline=color)
     im.save(filename)
 
-# os.makedirs("RE")
-# re_stimuli = dist.get_stimuli("RE.txt")
+# os.makedirs("RE_SCS")
+# re_stimuli = dist.get_stimuli("RE_SCS.txt")
 # os.makedirs("CFG")
 # cfg_stimuli = dist.get_stimuli("CFG.txt")
 # #
 # # for item in re_stimuli:
-# #     gen_image(item, "RE/" + rename(item) + ".jpg")
+# #     gen_image(item, "RE_SCS/" + rename(item) + ".jpg")
 # for item in cfg_stimuli:
 #     gen_image(item, "CFG/" + rename(item) + ".jpg")
 

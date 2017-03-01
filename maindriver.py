@@ -7,12 +7,12 @@ from nltk import CFG, nonterminals, RecursiveDescentParser
 from Manipulation.chunks import ChunkStrengthCal
 
 if len(sys.argv) <= 1:
-    training = "RE.txt"
+    training = "RE_SCS.txt"
 else:
     if sys.argv[1] == "R":
-        training = "RE.txt"
+        training = "RE_SCS.txt"
     else:
-        training = "CFG.txt"
+        training = "CFG_SCS.txt"
 
 if len(sys.argv) <= 2:
     items_after_dist = "re_dist_ge2.txt"

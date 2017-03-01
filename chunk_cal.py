@@ -3,8 +3,8 @@ import numpy as np
 import distance as dist
 import str_gen as sg
 
-re_stimuli = dist.get_stimuli("RE.txt")
-cfg_stimuli = dist.get_stimuli("CFG.txt")
+re_stimuli = dist.get_stimuli("RE_SCS.txt")
+cfg_stimuli = dist.get_stimuli("CFG_SCS.txt")
 
 re_cs = ChunkStrengthCal(re_stimuli)
 cfg_cs = ChunkStrengthCal(cfg_stimuli)
@@ -19,7 +19,7 @@ for item in allstr:
     rev = re_cs.avg_cs(item)
     file.write(str(rev) + "\n")
     vlist.append(rev)
-print "RE" + str(np.average(vlist))
+print "RE_SCS" + str(np.average(vlist))
 print str(max(vlist))
 print str(min(vlist))
 
