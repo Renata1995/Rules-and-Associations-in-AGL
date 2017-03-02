@@ -1,7 +1,11 @@
 from Queue import Queue
 import os
+from PIL import Image, ImageDraw
+
+
 test_location = "materials/test/"
 learning_location = "materials/learning/"
+unit = 100
 
 def all_str_with_length(length):
     """
@@ -90,6 +94,92 @@ def get_all_str(head, tail):
     return all_str
 
 
+def letter_to_color(letter):
+    """
+    Transfer a letter into a color
+    A corresponds to red. B corresponds to yellow. C corresponds to green. D corresponds to blue.
+    :param letter: an input letter
+    :type letter: string
+    :return: a color
+    :rtype: string
+    """
+    if letter == "A":
+        return "rgb(230,0,0)"
+    elif letter == "B":
+        return "rgb(252,251,52)"
+    elif letter == "C":
+        return "rgb(0,175,0)"
+    elif letter == "D":
+        return "rgb(25,128,255)"
+
+
+def letter_convert(letter):
+    """
+    Convert a letter to the first letter of the corresponded color
+    "A" corresponds to "R"
+    "B" corresponds to "Y"
+    "C" corresponds to "G"
+    "D" corresponds to "B"
+    :param letter: a letter
+    :type letter: string
+    :return: a letter
+    :rtype: string
+    """
+    if letter == "A":
+        return "R"
+    elif letter == "B":
+        return "Y"
+    elif letter == "C":
+        return "G"
+    elif letter == "D":
+        return "B"
+
+
+def rename(item):
+    """
+    To rename picture files
+    :param item: an item containing a list of letters
+    :type item: string
+    "A" corresponds to "R"
+    "B" corresponds to "Y"
+    "C" corresponds to "G"
+    "D" corresponds to "B"
+
+    i.e.
+    Input: "ABBAC"
+    Output: "RYYRG"
+
+    :return: a new string with converted letters
+    :rtype: string
+    """
+    new_str = ""
+    for index, item in enumerate(item):
+        new_str += letter_convert(item)
+    return new_str
+
+
+def gen_image(letters, filename):
+    """
+    Generate an image according to a
+    :param letters:
+    :type letters:
+    :param filename:
+    :type filename:
+    :return:
+    :rtype:
+    """
+    length = len(letters)
+    im = Image.new("RGB", (length*unit, unit), "white")
+    draw = ImageDraw.Draw(im)
+    gap = 10
+    for index, letter in enumerate(letters):
+        x1 = unit * index + gap
+        y1 = gap
+        x2 = unit * (index+1) - gap
+        y2 = unit - gap
+        color = letter_to_color(letter)
+        draw.ellipse((x1, y1, x2, y2), fill=color, outline=color)
+    im.save(filename)
 
 
 

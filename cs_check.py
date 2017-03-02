@@ -1,4 +1,4 @@
-import distance as dist
+from utils import distance as dist
 
 stimuli = dist.get_stimuli("CFG_SCS.txt")
 

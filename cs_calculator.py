@@ -1,6 +1,5 @@
 import numpy as np
 
-import distance as dist
 from Manipulation.chunks import CSCalculator
 from utils import helper_methods as helper
 
