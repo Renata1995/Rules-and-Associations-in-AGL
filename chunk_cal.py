@@ -12,26 +12,24 @@ re_cs = CSCalculator(re_stimuli)
 cfg_cs = CSCalculator(cfg_stimuli)
 
 # find all possible strings with length 5 to length 8 inclusively
-all_str = []
-for num in range(5, 9):
-    all_str.extend(helper.all_str_with_length(num))
+all_str = helper.get_all_str(5, 9)
 
 # Calculate
-vlist = []
-file = open("re_cs_test.txt","w")
+re_cs_list = []
 for item in all_str:
-    rev = re_cs.chunk_strength(item)
-    file.write(str(rev) + "\n")
-    vlist.append(rev)
-print "RE_SCS" + str(np.average(vlist))
-print str(max(vlist))
-print str(min(vlist))
+    cs = re_cs.chunk_strength(item)
+    re_cs_list.append(cs)
+print "RE\nAverage: " + str(np.average(re_cs_list))
+print "Median: " + str(np.median(re_cs_list))
+print "Max: " + str(max(re_cs_list))
+print "Min: " + str(min(re_cs_list))
 
-# cfglist = []
-# file = open("cfg_cs_test.txt","w")
-# for item in all_str:
-#     rev = cfg_cs.avg_cs(item)
-#     file.write(str(rev) + "\n")
-#     cfglist.append(rev)
-# print "CFG" + str(np.average(cfglist))
+cfg_cs_list = []
+for item in all_str:
+    cs = cfg_cs.chunk_strength(item)
+    cfg_cs_list.append(cs)
+print "CFG\nAverage: " + str(np.average(cfg_cs_list))
+print "Median: " + str(np.median(cfg_cs_list))
+print "Max: " + str(max(cfg_cs_list))
+print "Min: " + str(min(cfg_cs_list))
 

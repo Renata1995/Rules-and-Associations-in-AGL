@@ -1,5 +1,7 @@
 from Queue import Queue
-
+import os
+test_location = "materials/test/"
+learning_location = "materials/learning/"
 
 def all_str_with_length(length):
     """
@@ -40,13 +42,53 @@ def get_learning_items(condition):
     """
     filename = ""
     if condition == "RE":
-        filename = "materials/grammar/RE.txt"
+        filename = learning_location + "RE.txt"
     elif condition == "CFG":
-        filename = "materials/grammar/CFG.txt"
+        filename = learning_location + "CFG.txt"
 
     ifile = open(filename)
     all_items = [line for line in ifile]
     return all_items
+
+
+def get_cs_output_filename(condition):
+    """
+    Return the output filename of chunk strength
+    :param condition: "RE" or "CFG"
+    :type condition: String
+    :return: a filename
+    """
+    if condition == "RE":
+        return test_location + "/re_csgroups.txt"
+    elif condition == "CFG":
+        return test_location + "/cfg_csgroups.txt"
+
+
+def get_all_str(head, tail):
+    """
+    Return all strings with length from head(inclusive) to tail(exclusive)
+    :return: a list of strings
+    """
+    all_str = []
+    filename = "materials/all_str_" + str(head) + "_" + str(tail) + ".txt"
+
+    if os.path.exists(filename):
+        # if all strings with length from head to tail are already written on a file, retrieve all items
+        ifile = open(filename, "r")
+        for line in ifile:
+            all_str.append(line.strip())
+        ifile.close()
+    else:
+        # if the file does not exist, find all strings with length from head to tail and write these strings to a file
+        ofile = open(filename, "w")
+        for num in range(head, tail):
+            all_str.extend(all_str_with_length(num))
+        for item in all_str:
+            ofile.write(item + "\n")
+        ofile.close()
+
+    return all_str
+
 
 
 
