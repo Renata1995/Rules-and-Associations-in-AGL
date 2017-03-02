@@ -160,18 +160,21 @@ def rename(item):
 
 def gen_image(letters, filename):
     """
-    Generate an image according to a
-    :param letters:
-    :type letters:
-    :param filename:
-    :type filename:
-    :return:
-    :rtype:
+    Generate an image according to a string and save to a specific filename
+    In the string, A corresponds to red. B corresponds to yellow. C corresponds to green. D corresponds to blue.
+    :param letters: a letter string  i.e. "AABAC"
+    :type letters: string
+    :param filename: filename of the generated image
+    :type filename: string
     """
     length = len(letters)
+
+    # generate an image
     im = Image.new("RGB", (length*unit, unit), "white")
     draw = ImageDraw.Draw(im)
     gap = 10
+
+    # draw each color as a circle
     for index, letter in enumerate(letters):
         x1 = unit * index + gap
         y1 = gap
@@ -179,6 +182,8 @@ def gen_image(letters, filename):
         y2 = unit - gap
         color = letter_to_color(letter)
         draw.ellipse((x1, y1, x2, y2), fill=color, outline=color)
+
+    # save the image
     im.save(filename)
 
 
