@@ -45,7 +45,7 @@ i.e. The learning session uses letter sequences and the test session uses color 
         * Specific Similarity/Edit Distance: Grammatical judgment of a given test item is based on whether the test item is highly similar to a specific learning item ([Vokey & Brooks, 1992](http://www.wjh.harvard.edu/~pal/pdfs/replaced_scanned_articles/vokey-brooks92_scanned.pdf))
         * Generalized Context Model: Grammatical judgment of a given test item is based on the averaged similarity between the test item and all learning items ([Pothos & Bailey, 2000](https://www.researchgate.net/profile/Todd_Bailey/publication/12375156_The_Role_of_Similarity_in_Artificial_Grammar_Learning/links/5405ac020cf2c48563b17c30/The-Role-of-Similarity-in-Artificial-Grammar-Learning.pdf))
         * Analogical Similarity: Grammatical judgment of a transfer test item is based on structural similarity with learning items ([Brooks & Vokey](http://www.wjh.harvard.edu/~pal/pdfs/pdfs/brooks-vokey91.pdf))
-        * Chunk Strength: Grammatical judgment of a given test item is based on whether the test item contains frequent bigrams or trigrams
+        * Chunk Strength: Grammatical judgment of a given test item is based on whether the test item contains frequent bigrams or trigrams([Knowlton & Squire, 1996](http://www.wjh.harvard.edu/~pal/pdfs/pdfs/knowlton-squire96.pdf))
         * Entropy: Grammatical judgment of a given test item is based on its entropy value according to all learning items ([Jamieson et al., 2016](https://www.ncbi.nlm.nih.gov/pubmed/25828458))
 
 ### PRESENT EXPERIMENT
@@ -66,4 +66,3 @@ Both standard and transfer settings are used
 ## Requirements
 * [NLTK](http://www.nltk.org/)
 * [NumPy](http://www.numpy.org/)
-* [CherryPy](http://cherrypy.org/)

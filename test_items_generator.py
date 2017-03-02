@@ -1,31 +1,24 @@
-import os
+import re
 import sys
 from nltk import CFG, nonterminals, RecursiveDescentParser
-import distance as dist
 from Manipulation.chunks import CSCalculator
 from utils import helper_methods as helper
 
 """
 python test_items_generator.py <grammar> <output>
 <grammar> could be "RE" or "CFG"
-<output> is the name of the output file
 
 """
 if len(sys.argv) <= 1:
     grammar = "RE"
 else:
-    if sys.argv[1] == "C":
+    if sys.argv[1] == "c":
         grammar = "CFG"
     else:
         grammar = "RE"
 
-if len(sys.argv) <= 2:
-    output = helper.get_cs_output_filename("RE")
-else:
-    if sys.argv[2] == "C":
-        output = helper.get_cs_output_filename("CFG")
-    else:
-        output = helper.get_cs_output_filename("RE")
+
+output = helper.get_cs_output_filename(grammar)
 
 # Two grammars
 re_grammar = "^[AD]*(BA|BD(A|B)*D|C(A|B)*D)$"
@@ -52,7 +45,7 @@ ug_items = [[], [], []]
 
 for item in all_str:
     if grammar == "RE":
-        if re_grammar.findall(re_grammar, item):
+        if re.findall(re_grammar, item):
             item_list = g_items
         else:
             item_list = ug_items
