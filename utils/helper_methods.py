@@ -201,5 +201,16 @@ def get_gug_file(condition):
         return "materials/cfg_gug.txt"
 
 
+def cs_index(item, cs_calculator):
+    cs = cs_calculator.chunk_strength(item)
+    if cs < 5.5:
+        return 0
+    elif 5.5 <= cs <= 6.5:
+        return 1
+    elif cs > 6.5:
+        return 2
+
+
+
 
 
