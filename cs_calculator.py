@@ -10,7 +10,7 @@ cfg_stimuli = helper.get_learning_items("CFG")
 re_cs = CSCalculator(re_stimuli)
 cfg_cs = CSCalculator(cfg_stimuli)
 #
-# # find all possible strings with length 5 to length 8 inclusively
+# # find all possible strings with letter_length 5 to letter_length 8 inclusively
 # all_str = helper.get_all_str(5, 9)
 #
 # # Calculate

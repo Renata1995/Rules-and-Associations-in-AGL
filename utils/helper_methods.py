@@ -9,7 +9,7 @@ unit = 100
 
 def all_str_with_length(length):
     """
-    Generate all strings with a certain length and the alphabet ["A", "B", "C", "D"]
+    Generate all strings with a certain letter_length and the alphabet ["A", "B", "C", "D"]
     :type length: int
     :return: a list strings
     """
@@ -19,8 +19,8 @@ def all_str_with_length(length):
     for letter in alphabet:
         str_queue.put(letter)
 
-    # The expected length of the queue is 4^length.
-    # Iteratively pop the queue as long as the expected length is not met
+    # The expected letter_length of the queue is 4^letter_length.
+    # Iteratively pop the queue as long as the expected letter_length is not met
     while str_queue.qsize() != pow(4, length):
         # pop the current item
         current = str_queue.get()
@@ -70,20 +70,20 @@ def get_cs_output_filename(condition):
 
 def get_all_str(head, tail):
     """
-    Return all strings with length from head(inclusive) to tail(exclusive)
+    Return all strings with letter_length from head(inclusive) to tail(exclusive)
     :return: a list of strings
     """
     all_str = []
     filename = "materials/all_str_" + str(head) + "_" + str(tail) + ".txt"
 
     if os.path.exists(filename):
-        # if all strings with length from head to tail are already written on a file, retrieve all items
+        # if all strings with letter_length from head to tail are already written on a file, retrieve all items
         ifile = open(filename, "r")
         for line in ifile:
             all_str.append(line.strip())
         ifile.close()
     else:
-        # if the file does not exist, find all strings with length from head to tail and write these strings to a file
+        # if the file does not exist, find all strings with letter_length from head to tail and write these strings to a file
         ofile = open(filename, "w")
         for num in range(head, tail):
             all_str.extend(all_str_with_length(num))

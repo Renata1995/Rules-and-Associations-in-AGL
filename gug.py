@@ -29,7 +29,7 @@ T -> 'C'|'D'
 """)
 rd_parser = RecursiveDescentParser(cfg)
 
-# Get all strings with length from 5 to 8
+# Get all strings with letter_length from 5 to 8
 all_str = helper.get_all_str(5, 9)
 
 # Split items into three list with different CS
