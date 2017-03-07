@@ -81,7 +81,7 @@ for cs_level, cs_list in enumerate(g_items):
     for letter_length in range(5, 9):
         for num in range(0, 4):
             item = random.choice(cs_list)
-            while len(item) != letter_length or item.endswith("B") or item.endswith("C"):
+            while len(item) != letter_length:
                 item = random.choice(cs_list)
             g_test[cs_level][letter_length - 5].append(item)
             cs_list.remove(item)
@@ -96,14 +96,14 @@ for cs_level, cs_list in enumerate(ug_items):
     for letter_length in range(5, 9):
         for num in range(0, 4):
             item = random.choice(cs_list)
-            while len(item) != letter_length or item.endswith("B") or item.endswith("C"):
+            while len(item) != letter_length:
                 item = random.choice(cs_list)
             ug_test[cs_level][letter_length - 5].append(item)
             cs_list.remove(item)
 
-ofile = open(helper.test_location + "re_test.txt", "w")
+ofile = open(helper.test_location + grammar + "_test.txt", "w")
 # write grammatical items
-ofile.write("RE\nG\n")
+ofile.write(grammar + "\nG\n")
 for cs_level, cs_list in enumerate(g_test):
     for letter_length, item_list in enumerate(cs_list):
         ofile.write(item_list[0] + "\n")
