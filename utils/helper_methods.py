@@ -187,6 +187,19 @@ def gen_image(letters, filename):
     im.save(filename)
 
 
+def get_gug_file(condition):
+    """
+    Get the filename of which saves grammatical and ungrammatical items of a specific grammar
+    :param condition: "RE" or "CFG"
+    :type condition: string
+    :return: a filename
+    :rtype: string
+    """
+    if condition == "RE":
+        return "materials/re_gug.txt"
+    elif condition == "CFG":
+        return "materials/cfg_gug.txt"
+
 
 
 
