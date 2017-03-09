@@ -20,7 +20,7 @@ else:
 output = helper.get_gug_file(grammar)
 
 # Two grammars
-re_grammar = "^[AD]*(BA|BD(A|B)*D|C(A|B)*D)$"
+re_grammar = "^(A)*(BC|BDA|CB(C)*D)$"
 S, X, T = nonterminals("S, X, T")
 cfg = CFG.fromstring("""
 S -> X S X | T S | X | T
@@ -29,8 +29,8 @@ T -> 'C'|'D'
 """)
 rd_parser = RecursiveDescentParser(cfg)
 
-# Get all strings with letter_length from 5 to 8
-all_str = helper.get_all_str(5, 9)
+# Get all strings with letter_length from 4 to 7
+all_str = helper.get_all_str(4, 8)
 
 # Split items into three list with different CS
 g_items = []
