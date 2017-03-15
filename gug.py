@@ -20,17 +20,19 @@ else:
 output = helper.get_gug_file(grammar)
 
 # Two grammars
-re_grammar = "^(A)*(BC|BDA|CB(C)*D)$"
+# re_grammar = "^((TP*T(X+VP)*(S|X+VS))|(VX*V(PX+V)*P{,1}S))$"
+re_grammar = "^X*V((JTX*V)*J|T|XJ*|TVJ*)$"
+
 S, X, T = nonterminals("S, X, T")
 cfg = CFG.fromstring("""
 S -> X S X | T S | X | T
-X -> 'A'|'B'
-T -> 'C'|'D'
+X -> 'P'|'S'|'T'
+T -> 'V'|'X'
 """)
 rd_parser = RecursiveDescentParser(cfg)
 
 # Get all strings with letter_length from 4 to 7
-all_str = helper.get_all_str(4, 8)
+all_str = helper.get_all_str(helper.short_length, helper.long_length + 1)
 
 # Split items into three list with different CS
 g_items = []

@@ -17,7 +17,7 @@ else:
         grammar = "RE"
 
 # input and output file
-#ofile = open(helper.get_cs_output_filename(grammar), "w")
+ofile = open(helper.get_cs_output_filename(grammar), "w")
 ifile = open(helper.get_gug_file(grammar))
 
 # Get learning list
@@ -47,28 +47,28 @@ while "END" not in current:
     current = ifile.readline()
 
 # Write stimuli with different chunks to file
-# ofile.write(grammar + "\n")
-# ofile.write("G\n")
-# ofile.write("Low CS\n")
-# for item in g_items[0]:
-#     ofile.write(item + "\n")
-# ofile.write("\n----------------------------------------------------------\nMed CS\n")
-# for item in g_items[1]:
-#     ofile.write(item + "\n")
-# ofile.write("\n----------------------------------------------------------\nHigh CS\n")
-# for item in g_items[2]:
-#     ofile.write(item + "\n")
-#
-# ofile.write("\n-------------------------------------------\nUG\n")
-# ofile.write("Low CS\n")
-# for item in ug_items[0]:
-#     ofile.write(item + "\n")
-# ofile.write("\n----------------------------------------------------------\nMed CS\n")
-# for item in ug_items[1]:
-#     ofile.write(item + "\n")
-# ofile.write("\n----------------------------------------------------------\nHigh CS\n")
-# for item in ug_items[2]:
-#     ofile.write(item + "\n")
+ofile.write(grammar + "\n")
+ofile.write("G\n")
+ofile.write("Low CS\n")
+for item in g_items[0]:
+    ofile.write(item + "\n")
+ofile.write("\n----------------------------------------------------------\nMed CS\n")
+for item in g_items[1]:
+    ofile.write(item + "\n")
+ofile.write("\n----------------------------------------------------------\nHigh CS\n")
+for item in g_items[2]:
+    ofile.write(item + "\n")
+
+ofile.write("\n-------------------------------------------\nUG\n")
+ofile.write("Low CS\n")
+for item in ug_items[0]:
+    ofile.write(item + "\n")
+ofile.write("\n----------------------------------------------------------\nMed CS\n")
+for item in ug_items[1]:
+    ofile.write(item + "\n")
+ofile.write("\n----------------------------------------------------------\nHigh CS\n")
+for item in ug_items[2]:
+    ofile.write(item + "\n")
 
 # randomly select test items
 g_test = []   # 3 (cs level: low, med, high) x 4 (letter letter_length: 5, 6, 7, 8)

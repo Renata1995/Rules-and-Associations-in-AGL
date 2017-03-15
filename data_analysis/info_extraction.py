@@ -109,28 +109,47 @@ class InfoExtractor:
         return accuracy
 
     def cs_percent(self, test_data_letter, test_data_color):
+        """
+        Calculate the 
+        :param test_data_letter:
+        :type test_data_letter:
+        :param test_data_color:
+        :type test_data_color:
+        :return:
+        :rtype:
+        """
         letter_cs = self.cs_helper(test_data_letter)
         color_cs = self.cs_helper(test_data_color)
         return letter_cs, color_cs
 
     def cs_helper(self, data):
-        low, medium, high = 0, 0, 0
+        """
+        A helper method to calculate chunk strengths
+        :param data: a list of TestDataEntry objects
+        :return: three lists containing items with high, medium, and low chunk strength
+        """
+        low, medium, high = [], [], []
+
         for item in data:
             if item.stimulus in [1, 2, 3, 4, 13, 14, 15, 16]:
                 if self.grammatical(item.response):
-                    low += 1
+                    low.append(item)
             elif item.stimulus in [5, 6, 7, 8, 17, 18, 19, 20]:
                 if self.grammatical(item.response):
-                    medium += 1
+                    medium.append(item)
             elif item.stimulus in [9, 10, 11, 12, 21, 22, 23, 24]:
                 if self.grammatical(item.response):
-                    high += 1
-        low = float(low)/8
-        medium = float(medium)/8
-        high = float(high)/8
+                    high.append(item)
+
         return low, medium, high
 
     def grammatical(self, num):
+        """
+        Check whether the response of an item indicates grammatical or not
+        Number 1, 2 means that the given participant thinks the current item is not grammatical, whereas 3, 4 means grammatical
+        :param num: the response number
+        :return: True: grammatical, False: ungrammatical
+        """
         if num == 3 or num == 4:
             return True
         elif num == 1 or num == 2:

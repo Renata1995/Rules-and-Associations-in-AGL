@@ -6,14 +6,16 @@ from PIL import Image, ImageDraw
 test_location = "materials/test/"
 learning_location = "materials/learning/"
 unit = 100
+alphabet = ["P", "S", "T", "V", "X"]
+short_length = 4
+long_length = 8
 
 def all_str_with_length(length):
     """
-    Generate all strings with a certain letter_length and the alphabet ["A", "B", "C", "D"]
+    Generate all strings with a certain letter_length and the alphabet ["P", "S", "T", "V", "X"]
     :type length: int
     :return: a list strings
     """
-    alphabet = ["A", "B", "C", "D"]
 
     str_queue = Queue()
     for letter in alphabet:
@@ -21,7 +23,7 @@ def all_str_with_length(length):
 
     # The expected letter_length of the queue is 4^letter_length.
     # Iteratively pop the queue as long as the expected letter_length is not met
-    while str_queue.qsize() != pow(4, length):
+    while str_queue.qsize() != pow(len(alphabet), length):
         # pop the current item
         current = str_queue.get()
         # create new strings by adding each letter to the end of the current item
@@ -31,7 +33,7 @@ def all_str_with_length(length):
 
     # transfer the str_queue into a list
     str_list = []
-    for length in range(pow(4, length)):
+    for length in range(pow(len(alphabet), length)):
         str_list.append(str_queue.get())
 
     return str_list
