@@ -4,12 +4,12 @@ import numpy as np
 from scipy import stats
 
 if len(sys.argv) <= 1:
-    src = "RE_SCS"
+    src = "CFG_SCS"
 else:
     src = sys.argv[1]
 
 if len(sys.argv) <= 2:
-    output = src + "_accuracy_results.txt"
+    output = "analysis/" + src + "_accuracy_results.txt"
 else:
     output = sys.argv[2]
 
