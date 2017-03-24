@@ -145,12 +145,4 @@ Overall avg 0.503205128205  SD: 0.0663082079025
 Letter avg 0.509615384615  SD: 0.0926720018897
 Color avg 0.496794871795  SD: 0.0986846430663
 Grammatical avg 0.490384615385  SD: 0.151694353413
-Ungrammatical avg 0.516025641026  SD: 0.147575185041Participant ID: SCS 1 re
-Grammatical Items: 
-Letter   number:  2 percent: 0.166666666667   Color number: 7  percent: 0.583333333333   Overall number:  9  percent: 0.375
-
-Ungrammatical Items: 
-Letter   number:  7 percent: 0.583333333333   Color number: 8  percent: 0.666666666667   Overall number:  15  percent: 0.625
-
-All Items: 
-Letter   number:  9 percent: 0.375   Color number: 15  percent: 0.625   Overall number:  24  percent: 0.5
+Ungrammatical avg 0.516025641026  SD: 0.147575185041

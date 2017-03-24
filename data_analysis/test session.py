@@ -16,8 +16,7 @@ info_extractor = InfoExtractor()
 # print letter_ap, color_ap, overall_app
 # print str(letter_cs), str(color_cs)
 
-for src in ["RE_SCS", "CFG_SCS"]:
-    print src
+for src in ["RE_SCS", "RE_SSC"]:
     re_avg = []
     re_color_avg = []
     re_letter_avg = []

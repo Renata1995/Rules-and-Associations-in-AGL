@@ -4,7 +4,7 @@ import numpy as np
 from scipy import stats
 
 if len(sys.argv) <= 1:
-    src = "CFG_SCS"
+    src = "CFG_SSC"
 else:
     src = sys.argv[1]
 

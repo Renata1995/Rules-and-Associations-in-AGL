@@ -53,4 +53,4 @@ RE RSC	2	2	RE random SC	1	RE Color Test, 7	32	RE Color Test (7, testBRGBRGBB.jpg
 RE RSC	2	2	RE random SC	1	RE Color Test, 20	45	RE Color Test (20, testRRGRYRYB.jpg)	45	347966	2		2					1; 2; 3; 4	C	4767	
 RE RSC	2	2	RE random SC	1	RE Color Test, 10	35	RE Color Test (10, testBYGGYYB.jpg)	35	350366	3		3					1; 2; 3; 4	C	2384	
 RE RSC	2	2	RE random SC	1	RE Color Test, 2	27	RE Color Test (2, testBBRBRGB.jpg)	27	352750	3		3					1; 2; 3; 4	C	2368	
-RE RSC	2	2	RE random SC	1	Debriefing	50	Debriefing	50	366862	space		 					space	C	14064	
+RE RSC	2	2	RE random SC	1	Debriefing	50	Debriefing	50	366862	space		 					space	C	14064

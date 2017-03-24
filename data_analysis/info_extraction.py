@@ -19,6 +19,16 @@ class InfoExtractor:
         srt_data = TestDataEntry(raw[0], raw[1], raw[8], int(raw[10]), int(raw[19]), int(raw[26]))
         return srt_data
 
+    def rtext_to_data(self, raw):
+        """
+        Convert raw text into TestDataEntry objects
+        :param raw: raw text
+        :type raw: string
+        :return: A TestDataEntry object
+        """
+        srt_data = TestDataEntry(raw[0], raw[1], raw[9], int(raw[11]), int(raw[20]), int(raw[27]))
+        return srt_data
+
     def test_data(self, filename):
         """
         Extract test data from the raw data file and convert to needed list of TestDataEntry objects
@@ -34,7 +44,11 @@ class InfoExtractor:
 
         # skip data at the grammar session
         current = ifile.readline()
-        while "Middle Instruction 2" not in current:
+        if "_R" in filename:
+            indicator = "Random Instruction"
+        else:
+            indicator = "Middle Instruction 2"
+        while indicator not in current:
             current = ifile.readline()
 
         # collect data at the test session
@@ -43,9 +57,12 @@ class InfoExtractor:
 
         current = ifile.readline()
         while "Debriefing" not in current: # "Debriefing" is in the last line
-
             # each line in the raw data file contains a given participant's response to a given test item
-            entry = self.text_to_data(current.split())  # turn the current line of data into a TestDataEntry object
+            if "_R" in filename:
+                entry = self.rtext_to_data(current.split())
+            else:
+                entry = self.text_to_data(current.split())  # turn the current line of data into a TestDataEntry object
+            entry.display()
 
             # put the entry object into appropriate lists
             if entry.s_type == "Color":
@@ -55,15 +72,20 @@ class InfoExtractor:
 
             # go to the next line
             current = ifile.readline()
-
         # In the experiment, test items were presented in a random order.
         # Sort test items by IDs
         test_data_color = sorted(test_data_color, key=lambda x: x.stimulus)
         test_data_letter = sorted(test_data_letter, key=lambda x: x.stimulus)
-
         # combine test_data_color and test_data_letter into a single list
         test_data = test_data_letter + test_data_color
         return test_data_letter, test_data_color, test_data
+
+    def percent_of_g(self, test_data):
+        g_sum = 0
+        for item in test_data:
+            if self.grammatical(item.response):
+                g_sum += 1
+        return float(g_sum)/len(test_data)
 
     def accuracy(self, test_data_letter, test_data_color):
         """
