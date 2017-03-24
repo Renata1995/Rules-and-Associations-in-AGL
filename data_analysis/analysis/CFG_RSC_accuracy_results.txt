@@ -1,0 +1,49 @@
+Participant ID: RSC 1
+Grammatical Items: 
+Letter   number:  3 percent: 0.25   Color number: 2  percent: 0.166666666667   Overall number:  5  percent: 0.208333333333
+
+Ungrammatical Items: 
+Letter   number:  11 percent: 0.916666666667   Color number: 9  percent: 0.75   Overall number:  20  percent: 0.833333333333
+
+All Items: 
+Letter   number:  14 percent: 0.583333333333   Color number: 11  percent: 0.458333333333   Overall number:  25  percent: 0.520833333333
+------------------------------------
+
+Participant ID: RSC 2
+Grammatical Items: 
+Letter   number:  8 percent: 0.666666666667   Color number: 8  percent: 0.666666666667   Overall number:  16  percent: 0.666666666667
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 7  percent: 0.583333333333   Overall number:  12  percent: 0.5
+
+All Items: 
+Letter   number:  13 percent: 0.541666666667   Color number: 15  percent: 0.625   Overall number:  28  percent: 0.583333333333
+------------------------------------
+
+Participant ID: RSC 3
+Grammatical Items: 
+Letter   number:  2 percent: 0.166666666667   Color number: 4  percent: 0.333333333333   Overall number:  6  percent: 0.25
+
+Ungrammatical Items: 
+Letter   number:  10 percent: 0.833333333333   Color number: 6  percent: 0.5   Overall number:  16  percent: 0.666666666667
+
+All Items: 
+Letter   number:  12 percent: 0.5   Color number: 10  percent: 0.416666666667   Overall number:  22  percent: 0.458333333333
+------------------------------------
+
+Overall avg 0.520833333333  SD: 0.051031036308
+
+Letter avg 0.541666666667  SD: 0.034020690872
+G avg 0.361111111111  SD: 0.218722440945
+UG avg 0.722222222222  SD: 0.218722440945
+t-test G and UG  t: -1.651001651, p: 0.174082753562
+
+Color avg 0.5  SD: 0.0900102874779
+G avg 0.388888888889  SD: 0.207869854821
+UG avg 0.611111111111  SD: 0.10393492741
+t-test G and UG  t: -1.35224680757, p: 0.247692660738
+t-test Letter and Color  t: 0.612372435696, p: 0.573392253825
+
+Grammatical avg 0.375  SD: 0.206939783691
+Ungrammatical avg 0.666666666667  SD: 0.136082763488
+t-test G and UG  t: -1.66540833001, p: 0.171161440243

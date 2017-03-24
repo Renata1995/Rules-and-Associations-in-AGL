@@ -1,0 +1,49 @@
+Participant ID: RSC 1
+Grammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 9  percent: 0.75   Overall number:  13  percent: 0.541666666667
+
+Ungrammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 6  percent: 0.5   Overall number:  11  percent: 0.458333333333
+
+All Items: 
+Letter   number:  9 percent: 0.375   Color number: 15  percent: 0.625   Overall number:  24  percent: 0.5
+------------------------------------
+
+Participant ID: RSC 2
+Grammatical Items: 
+Letter   number:  4 percent: 0.333333333333   Color number: 4  percent: 0.333333333333   Overall number:  8  percent: 0.333333333333
+
+Ungrammatical Items: 
+Letter   number:  7 percent: 0.583333333333   Color number: 6  percent: 0.5   Overall number:  13  percent: 0.541666666667
+
+All Items: 
+Letter   number:  11 percent: 0.458333333333   Color number: 10  percent: 0.416666666667   Overall number:  21  percent: 0.4375
+------------------------------------
+
+Participant ID: RSC 3
+Grammatical Items: 
+Letter   number:  5 percent: 0.416666666667   Color number: 1  percent: 0.0833333333333   Overall number:  6  percent: 0.25
+
+Ungrammatical Items: 
+Letter   number:  9 percent: 0.75   Color number: 9  percent: 0.75   Overall number:  18  percent: 0.75
+
+All Items: 
+Letter   number:  14 percent: 0.583333333333   Color number: 10  percent: 0.416666666667   Overall number:  24  percent: 0.5
+------------------------------------
+
+Overall avg 0.479166666667  SD: 0.0294627825494
+
+Letter avg 0.472222222222  SD: 0.0856168611523
+G avg 0.361111111111  SD: 0.0392837100659
+UG avg 0.583333333333  SD: 0.136082763488
+t-test G and UG  t: -2.2188007849, p: 0.0907331716848
+
+Color avg 0.486111111111  SD: 0.0982092751648
+G avg 0.388888888889  SD: 0.274985970461
+UG avg 0.583333333333  SD: 0.117851130198
+t-test G and UG  t: -0.919145030018, p: 0.41003117016
+t-test Letter and Color  t: -0.150755672289, p: 0.887465425186
+
+Grammatical avg 0.375  SD: 0.122663345366
+Ungrammatical avg 0.583333333333  SD: 0.122663345366
+t-test G and UG  t: -1.69841555122, p: 0.164660409393

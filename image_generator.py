@@ -2,7 +2,7 @@ import os
 from utils import distance as dist
 from utils import helper_methods as helper
 
-re_test = helper.test_location + "re_color/"
+re_test = helper.test_location + "re_color_g/"
 cfg_test = helper.test_location + "cfg_color/"
 
 # generate color test items for RE

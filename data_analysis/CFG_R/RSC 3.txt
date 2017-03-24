@@ -1,0 +1,56 @@
+3
+AGL Experiment
+3/21/2017	3:00:40 PM
+
+Participant	Participant	Session	Block	Block	Trial	Trial	Event	Event	Cumulative	Participant	Input			Pressed Or	X	Y	Correct	Error	Reaction
+Group	Name	ID	Name	No.	Name	No.	Name	No.	Time	Response	String	Key	Key	Released	Position	Position	Response	Code	Time	Answers
+CFG RSC	3	3	CFG random SC	1	Random Instruction	1	Random Instruction	1	34567	space		 					(any response)	C	34531	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 11	12	CFG String Test (11, BADDDAB)	12	55175	3		3					1; 2; 3; 4	C	20590	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 12	13	CFG String Test (12, DDCBBDAB)	13	61262	1		1					1; 2; 3; 4	C	6076	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 18	19	CFG String Test (18, CADCAC)	19	64094	4		4					1; 2; 3; 4	C	2825	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 5	6	CFG String Test (5, ACDCA)	6	66359	4		4					1; 2; 3; 4	C	2241	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 9	10	CFG String Test (9, ADCAB)	10	69526	2		2					1; 2; 3; 4	C	3157	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 23	24	CFG String Test (23, BCDABDA)	24	78646	2		2					1; 2; 3; 4	C	9110	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 20	21	CFG String Test (20, BCCABCAA)	21	84038	2		2					1; 2; 3; 4	C	5386	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 1	2	CFG String Test (1, BCDBA)	2	85422	2		2					1; 2; 3; 4	C	1370	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 10	11	CFG String Test (10, CABDAB)	11	86990	2		2					1; 2; 3; 4	C	1554	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 22	23	CFG String Test (22, ADCBDA)	23	89846	2		2					1; 2; 3; 4	C	2844	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 15	16	CFG String Test (15, CDDCDBB)	16	92334	2		2					1; 2; 3; 4	C	2482	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 13	14	CFG String Test (13, BACDD)	14	93414	2		2					1; 2; 3; 4	C	1078	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 19	20	CFG String Test (19, DACABBC)	20	101110	2		2					1; 2; 3; 4	C	7691	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 4	5	CFG String Test (4, DBDDCCCA)	5	102334	2		2					1; 2; 3; 4	C	1215	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 7	8	CFG String Test (7, DCBDCAB)	8	103774	2		2					1; 2; 3; 4	C	1438	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 6	7	CFG String Test (6, BBCBAB)	7	105086	2		2					1; 2; 3; 4	C	1300	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 8	9	CFG String Test (8, CADBDDAB)	9	109606	2		2					1; 2; 3; 4	C	4504	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 24	25	CFG String Test (24, DDCADABD)	25	111142	2		2					1; 2; 3; 4	C	1523	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 3	4	CFG String Test (3, CBCBCAA)	4	112758	2		2					1; 2; 3; 4	C	1606	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 16	17	CFG String Test (16, DBCBABCD)	17	118486	3		3					1; 2; 3; 4	C	5717	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 17	18	CFG String Test (17, ACBBC)	18	121598	2		2					1; 2; 3; 4	C	3096	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 14	15	CFG String Test (14, ACCDBC)	15	126398	2		2					1; 2; 3; 4	C	4796	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 21	22	CFG String Test (21, DBBDA)	22	127806	2		2					1; 2; 3; 4	C	1404	
+CFG RSC	3	3	CFG random SC	1	CFG String Test, 2	3	CFG String Test (2, ACCDCA)	3	129942	2		2					1; 2; 3; 4	C	2123	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 5	30	CFG Color Test (5, testBYBBGGGR.jpg)	30	133854	3		3					1; 2; 3; 4	C	3902	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 20	45	CFG Color Test (20, testYGBYR.jpg)	45	137686	3		3					1; 2; 3; 4	C	3817	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 7	32	CFG Color Test (7, testBYYBR.jpg)	32	139318	2		2					1; 2; 3; 4	C	1616	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 4	29	CFG Color Test (4, testBRGRYYG.jpg)	29	141030	2		2					1; 2; 3; 4	C	1695	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 15	40	CFG Color Test (15, testRGBGR.jpg)	40	142742	3		3					1; 2; 3; 4	C	1690	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 22	47	CFG Color Test (22, testYRBBBRY.jpg)	47	143878	3		3					1; 2; 3; 4	C	1126	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 14	39	CFG Color Test (14, testRBGYBR.jpg)	39	146390	3		3					1; 2; 3; 4	C	2488	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 16	41	CFG Color Test (16, testRGGBGR.jpg)	41	148029	2		2					1; 2; 3; 4	C	1627	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 2	27	CFG Color Test (2, testBBGYYBRY.jpg)	27	150989	2		2					1; 2; 3; 4	C	2937	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 11	36	CFG Color Test (11, testGRYBRY.jpg)	36	153429	3		3					1; 2; 3; 4	C	2427	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 1	26	CFG Color Test (1, testBBGRBRYB.jpg)	26	159629	2		2					1; 2; 3; 4	C	6177	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 12	37	CFG Color Test (12, testGYGYGRR.jpg)	37	160677	2		2					1; 2; 3; 4	C	1025	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 9	34	CFG Color Test (9, testGRBGRG.jpg)	34	161845	3		3					1; 2; 3; 4	C	1143	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 8	33	CFG Color Test (8, testGBBGBYY.jpg)	33	165133	2		2					1; 2; 3; 4	C	3265	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 3	28	CFG Color Test (3, testBGYBGRY.jpg)	28	167013	2		2					1; 2; 3; 4	C	1861	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 13	38	CFG Color Test (13, testRBGRY.jpg)	38	170533	2		2					1; 2; 3; 4	C	3483	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 17	42	CFG Color Test (17, testRGGBYG.jpg)	42	172685	3		3					1; 2; 3; 4	C	2134	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 24	49	CFG Color Test (24, testYYGYRY.jpg)	49	177805	3		3					1; 2; 3; 4	C	5104	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 23	48	CFG Color Test (23, testYRGBB.jpg)	48	180413	2		2					1; 2; 3; 4	C	2595	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 10	35	CFG Color Test (10, testGRBYBBRY.jpg)	35	182317	2		2					1; 2; 3; 4	C	1882	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 21	46	CFG Color Test (21, testYGGRYGRR.jpg)	46	187045	2		2					1; 2; 3; 4	C	4710	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 18	43	CFG Color Test (18, testRGYYG.jpg)	43	190733	2		2					1; 2; 3; 4	C	3682	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 19	44	CFG Color Test (19, testYGBRYBR.jpg)	44	194501	2		2					1; 2; 3; 4	C	3750	
+CFG RSC	3	3	CFG random SC	1	CFG Color Test, 6	31	CFG Color Test (6, testBYGYRYGB.jpg)	31	196421	3		3					1; 2; 3; 4	C	1903	
+CFG RSC	3	3	CFG random SC	1	Debriefing	50	Debriefing	50	224597	space		 					space	C	28147	

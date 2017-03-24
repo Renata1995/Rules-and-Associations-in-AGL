@@ -5,8 +5,8 @@ import os
 # open all files
 ie = InfoExtractor()
 
-src = "RE_RSC"
+src = "RE_SCS, RE_SSC"
 for fname in os.listdir(src):
     filename = src + "/" + fname
-    print filename
     test_data_letter, test_data_color, test_data = ie.test_data(filename)
+

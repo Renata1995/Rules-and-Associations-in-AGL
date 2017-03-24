@@ -1,0 +1,61 @@
+3
+AGL Experiment
+3/21/2017	4:29:59 PM
+
+Participant	Participant	Session	Block	Block	Trial	Trial	Event	Event	Cumulative	Participant	Input			Pressed Or	X	Y	Correct	Error	Reaction
+Group	Name	ID	Name	No.	Name	No.	Name	No.	Time	Response	String	Key	Key	Released	Position	Position	Response	Code	Time	Answers
+RE RSC	3	3	RE random SC	1	Random Instruction	1	Random Instruction	1	24094	I am sure the current sequence follows the same pattern			Left	Pressed	331	184	(any response)	C	24068
+RE RSC	3	3	RE random SC	1	RE String Test, 11	12	RE String Test (11, DCAABAD)	12	45881	1		1					1; 2; 3; 4	SC	21755
+RE RSC	3	3	RE random SC	1	RE String Test, 6	7	RE String Test (6, ADDACD)	7	47321	2		2					1; 2; 3; 4	C	1427	
+RE RSC	3	3	RE random SC	1	RE String Test, 5	6	RE String Test (5, DCBAD)	6	48249	3		3					1; 2; 3; 4	C	922	
+RE RSC	3	3	RE random SC	1	RE String Test, 24	25	RE String Test (24, DBDABADA)	25	50689	2		2					1; 2; 3; 4	C	2429	
+RE RSC	3	3	RE random SC	1	RE String Test, 2	3	RE String Test (2, DDACBD)	3	51825	3		3					1; 2; 3; 4	C	1116	
+RE RSC	3	3	RE random SC	1	RE String Test, 21	22	RE String Test (21, ABADA)	22	55113	2		2					1; 2; 3; 4	C	3286	
+RE RSC	3	3	RE random SC	1	RE String Test, 22	23	RE String Test (22, CDBABB)	23	56081	2		2					1; 2; 3; 4	C	954	
+RE RSC	3	3	RE random SC	1	RE String Test, 14	15	RE String Test (14, ABACDD)	15	57249	1		1					1; 2; 3; 4	C	1155	
+RE RSC	3	3	RE random SC	1	RE String Test, 7	8	RE String Test (7, CBABBBD)	8	60305	2		2					1; 2; 3; 4	C	3045	
+RE RSC	3	3	RE random SC	1	RE String Test, 8	9	RE String Test (8, DACBAABD)	9	61161	3		3					1; 2; 3; 4	C	851	
+RE RSC	3	3	RE random SC	1	RE String Test, 13	14	RE String Test (13, AACCD)	14	62497	4		4					1; 2; 3; 4	C	1320	
+RE RSC	3	3	RE random SC	1	RE String Test, 10	11	RE String Test (10, ACBAAD)	11	63545	1		1					1; 2; 3; 4	C	1035	
+RE RSC	3	3	RE random SC	1	RE String Test, 16	17	RE String Test (16, DACDACDD)	17	64097	2		2					1; 2; 3; 4	C	537	
+RE RSC	3	3	RE random SC	1	RE String Test, 9	10	RE String Test (9, DCAAD)	10	65529	4		4					1; 2; 3; 4	C	1419	
+RE RSC	3	3	RE random SC	1	RE String Test, 4	5	RE String Test (4, DDDDDACD)	5	65945	3		3					1; 2; 3; 4	C	402	
+RE RSC	3	3	RE random SC	1	RE String Test, 3	4	RE String Test (3, DDADACD)	4	67409	1		1					1; 2; 3; 4	C	1449	
+RE RSC	3	3	RE random SC	1	RE String Test, 17	18	RE String Test (17, BADCD)	18	68009	4		4					1; 2; 3; 4	C	583	
+RE RSC	3	3	RE random SC	1	RE String Test, 20	21	RE String Test (20, AACAABCD)	21	69041	1		1					1; 2; 3; 4	C	1015	
+RE RSC	3	3	RE random SC	1	RE String Test, 19	20	RE String Test (19, DBCCBBD)	20	70265	2		2					1; 2; 3; 4	C	1222	
+RE RSC	3	3	RE random SC	1	RE String Test, 15	16	RE String Test (15, BACCDCD)	16	71025	3		3					1; 2; 3; 4	C	748	
+RE RSC	3	3	RE random SC	1	RE String Test, 1	2	RE String Test (1, ADACD)	2	72481	1		1					1; 2; 3; 4	C	1454	
+RE RSC	3	3	RE random SC	1	RE String Test, 23	24	RE String Test (23, ADBBDDB)	24	74689	1		1					1; 2; 3; 4	C	2196	
+RE RSC	3	3	RE random SC	1	RE String Test, 18	19	RE String Test (18, CDADAD)	19	75473	1		1					1; 2; 3; 4	C	780	
+RE RSC	3	3	RE random SC	1	RE String Test, 12	13	RE String Test (12, AACABABD)	13	76385	1		1					1; 2; 3; 4	C	908	
+RE RSC	3	3	RE random SC	1	RE Color Test, 18	43	RE Color Test (18, testRRGGB.jpg)	43	78617	1		1					1; 2; 3; 4	C	2175	
+RE RSC	3	3	RE random SC	1	RE Color Test, 12	37	RE Color Test (12, testGBYRYY.jpg)	37	79865	1		1					1; 2; 3; 4	C	1205	
+RE RSC	3	3	RE random SC	1	RE Color Test, 3	28	RE Color Test (3, testBBRGYB.jpg)	28	81497	1		1					1; 2; 3; 4	C	1604	
+RE RSC	3	3	RE random SC	1	RE Color Test, 2	27	RE Color Test (2, testBBRBRGB.jpg)	27	82689	2		2					1; 2; 3; 4	C	1179	
+RE RSC	3	3	RE random SC	1	RE Color Test, 16	41	RE Color Test (16, testRBYYBBY.jpg)	41	84465	1		1					1; 2; 3; 4	C	1755	
+RE RSC	3	3	RE random SC	1	RE Color Test, 1	26	RE Color Test (1, testBBBBBRGB.jpg)	26	86441	2		2					1; 2; 3; 4	C	1899	
+RE RSC	3	3	RE random SC	1	RE Color Test, 10	35	RE Color Test (10, testBYGGYYB.jpg)	35	88153	2		2					1; 2; 3; 4	C	1693	
+RE RSC	3	3	RE random SC	1	RE Color Test, 6	31	RE Color Test (6, testBGYRB.jpg)	31	90937	1		1					1; 2; 3; 4	C	2760	
+RE RSC	3	3	RE random SC	1	RE Color Test, 19	44	RE Color Test (19, testRRGRRYGB.jpg)	44	91913	2		2					1; 2; 3; 4	C	953	
+RE RSC	3	3	RE random SC	1	RE Color Test, 4	29	RE Color Test (4, testBGRRB.jpg)	29	92817	2		2					1; 2; 3; 4	C	891	
+RE RSC	3	3	RE random SC	1	RE Color Test, 9	34	RE Color Test (9, testBYBRYRBR.jpg)	34	93665	1		1					1; 2; 3; 4	C	822	
+RE RSC	3	3	RE random SC	1	RE Color Test, 13	38	RE Color Test (13, testGYRYYYB.jpg)	38	94825	3		3					1; 2; 3; 4	C	1149	
+RE RSC	3	3	RE random SC	1	RE Color Test, 22	47	RE Color Test (22, testRYRGBB.jpg)	47	95777	2		2					1; 2; 3; 4	C	934	
+RE RSC	3	3	RE random SC	1	RE Color Test, 21	46	RE Color Test (21, testRYRBR.jpg)	46	97129	3		3					1; 2; 3; 4	C	1336	
+RE RSC	3	3	RE random SC	1	RE Color Test, 7	32	RE Color Test (7, testBRGBRGBB.jpg)	32	97969	2		2					1; 2; 3; 4	C	809	
+RE RSC	3	3	RE random SC	1	RE Color Test, 17	42	RE Color Test (17, testRGYRRB.jpg)	42	99225	1		1					1; 2; 3; 4	C	1232	
+RE RSC	3	3	RE random SC	1	RE Color Test, 8	33	RE Color Test (8, testBRGYRRYB.jpg)	33	100529	2		2					1; 2; 3; 4	C	1286	
+RE RSC	3	3	RE random SC	1	RE Color Test, 5	30	RE Color Test (5, testBGRRYRB.jpg)	30	101625	3		3					1; 2; 3; 4	C	1082	
+RE RSC	3	3	RE random SC	1	RE Color Test, 15	40	RE Color Test (15, testRBRGB.jpg)	40	102889	2		2					1; 2; 3; 4	C	1246	
+RE RSC	3	3	RE random SC	1	RE Color Test, 14	39	RE Color Test (14, testRBBRGB.jpg)	39	103689	2		2					1; 2; 3; 4	C	779	
+RE RSC	3	3	RE random SC	1	RE Color Test, 24	49	RE Color Test (24, testYRGGBGB.jpg)	49	106033	2		2					1; 2; 3; 4	C	2323	
+RE RSC	3	3	RE random SC	1	RE Color Test, 11	36	RE Color Test (11, testGBRBRB.jpg)	36	108609	1		1					1; 2; 3; 4	C	2534	
+RE RSC	3	3	RE random SC	1	RE Color Test, 20	45	RE Color Test (20, testRRGRYRYB.jpg)	45	109617	1		1					1; 2; 3; 4	C	991	
+RE RSC	3	3	RE random SC	1	RE Color Test, 23	48	RE Color Test (23, testYRBGB.jpg)	48	111225	3		3					1; 2; 3; 4	C	1599	
+RE RSC	3	3	RE random SC	1	Debriefing	50	Debriefing	50	130929			0					space	E	19670	
+RE RSC	3	3	RE random SC	1	Debriefing	50	Debriefing	50	132005	I am sure the current sequence follows the same pattern			Left	Pressed	169	-71	space	E	20746	
+RE RSC	3	3	RE random SC	1	Debriefing	50	Debriefing	50	135496	3		3					space	E	24237	
+RE RSC	3	3	RE random SC	1	Debriefing	50	Debriefing	50	135832	2		2					space	E	24573	
+RE RSC	3	3	RE random SC	1	Debriefing	50	Debriefing	50	136216	1		1					space	E	24957	
+RE RSC	3	3	RE random SC	1	Debriefing	50	Debriefing	50	218616	space		 					space	SC	107357	

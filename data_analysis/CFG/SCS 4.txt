@@ -1,0 +1,132 @@
+4
+AGL Experiment
+2/24/2017	1:51:46 PM
+
+Participant	Participant	Session	Block	Block	Trial	Trial	Event	Event	Cumulative	Participant	Input			Pressed Or	X	Y	Correct	Error	Reaction
+Group	Name	ID	Name	No.	Name	No.	Name	No.	Time	Response	String	Key	Key	Released	Position	Position	Response	Code	Time	Answers
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 5	6	CFG String Training (5, ACADD)	6	27234	ACADD	acadd						ACADD	C	2006	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 22	23	CFG String Training (22, ABDCCABA)	23	34049	ABDCCABA	abdccaba						ABDCCABA	C	1527	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 18	19	CFG String Training (18, ADCAAAB)	19	38545	ADCAAAB	adcaaab						ADCAAAB	C	1343	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 2	3	CFG String Training (2, ABDAA)	3	41817	ABDAA	abdaa						ABDAA	C	1147	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 21	22	CFG String Training (21, CDAADBBB)	22	50513	CDAADBBB	cdaadbbb						CDAADBBB	C	1608	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 11	12	CFG String Training (11, CCCBCB)	12	54065	CCCBCB	cccbcb						CCCBCB	C	1308	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 9	10	CFG String Training (9, DCCBDA)	10	61065	DCCBDA	dccbda						DCCBDA	C	1454	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 12	13	CFG String Training (12, CBBDBA)	13	68265	CBBDBA	cbbdba						CBBDBA	C	1310	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 23	24	CFG String Training (23, DCDABDBB)	24	78769	DCDABDBB	dcdabdbb						DCDABDBB	C	1374	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 17	18	CFG String Training (17, DCAADBB)	18	83863	DCAADBB	dcaadbb						DCAADBB	C	1401	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 3	4	CFG String Training (3, CDABA)	4	87247	CDABA	cdaba						CDABA	C	1589	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 6	7	CFG String Training (6, BDACD)	7	90079	BDACD	bdacd						BDACD	C	1558	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 4	5	CFG String Training (4, DDACB)	5	93151	DDACB	ddacb						DDACB	C	1085	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 16	17	CFG String Training (16, DCDDABA)	17	96023	DCDDABA	dcddaba						DCDDABA	C	1275	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 10	11	CFG String Training (10, BACAAB)	11	98543	BACAAB	bacaab						BACAAB	C	959	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 1	2	CFG String Training (1, AACBB)	2	100639	AACBB	aacbb						AACBB	C	658	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 24	25	CFG String Training (24, BCADDABA)	25	106439	BCADDABA	bcaddaba						BCADDABA	C	1430	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 19	20	CFG String Training (19, ABADCABB)	20	115607	ABADCABB	abadcabb						ABADCABB	C	1542	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 15	16	CFG String Training (15, AADCCBB)	16	120911	AADCCBB	aadccbb						AADCCBB	C	887	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 7	8	CFG String Training (7, ACBDAB)	8	126439	ACBDAB	acbdab						ACBDAB	C	1891	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 20	21	CFG String Training (20, CADDACBB)	21	129927	CADDACBB	caddacbb						CADDACBB	C	1319	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 13	14	CFG String Training (13, BBDCDAB)	14	132927	BBDCDAB	bbdcdab						BBDCDAB	C	1099	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 14	15	CFG String Training (14, ABCCBBA)	15	137559	ABCCBBA	abccbba						ABCCBBA	C	1987	
+CFG SCS	4	4	CFG SCS	1	CFG String Training, 8	9	CFG String Training (8, ADADAB)	9	141847	ADADAB	adadab						ADADAB	C	1162	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 6	31	CFG String Training (6, BDACD)	7	144063	BDACD	bdacd						BDACD	C	1150	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 5	30	CFG String Training (5, ACADD)	6	146383	ACADD	acadd						ACADD	C	918	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 20	45	CFG String Training (20, CADDACBB)	21	150199	CADDACBB	caddacbb						CADDACBB	C	1073	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 17	42	CFG String Training (17, DCAADBB)	18	154919	DCAADBB	dcaadbb						DCAADBB	C	1184	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 11	36	CFG String Training (11, CCCBCB)	12	157471	CCCBCB	cccbcb						CCCBCB	C	924	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 24	49	CFG String Training (24, BCADDABA)	25	163783	BCADDABA	bcaddaba						BCADDABA	C	1565	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 7	32	CFG String Training (7, ACBDAB)	8	168159	ACBDAB	acbdab						ACBDAB	C	1105	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 15	40	CFG String Training (15, AADCCBB)	16	172566	AADCCBB	aadccbb						AADCCBB	C	1074	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 8	33	CFG String Training (8, ADADAB)	9	177062	ADADAB	adadab						ADADAB	C	882	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 14	39	CFG String Training (14, ABCCBBA)	15	182102		abccbbd						ABCCBBA	E	1206	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 14	39	CFG String Training (14, ABCCBBA)	15	185798	ABCCBBA	abccbba						ABCCBBA	SC	6222	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 10	35	CFG String Training (10, BACAAB)	11	189062	BACAAB	bacaab						BACAAB	C	976	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 23	48	CFG String Training (23, DCDABDBB)	24	195038	DCDABDBB	dcdabdbb						DCDABDBB	C	1014	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 21	46	CFG String Training (21, CDAADBBB)	22	199134	CDAADBBB	cdaadbbb						CDAADBBB	C	1310	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 1	26	CFG String Training (1, AACBB)	2	201262	AACBB	aacbb						AACBB	C	851	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 12	37	CFG String Training (12, CBBDBA)	13	211582	CBBDBA	cbbdba						CBBDBA	C	1038	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 13	38	CFG String Training (13, BBDCDAB)	14	214982	BBDCDAB	bbdcdab						BBDCDAB	C	1369	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 4	29	CFG String Training (4, DDACB)	5	217510	DDACB	ddacb						DDACB	C	993	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 9	34	CFG String Training (9, DCCBDA)	10	220342	DCCBDA	dccbda						DCCBDA	C	924	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 22	47	CFG String Training (22, ABDCCABA)	23	229246	ABDCCABA	abdccaba						ABDCCABA	C	1563	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 16	41	CFG String Training (16, DCDDABA)	17	232006	DCDDABA	dcddaba						DCDDABA	C	1063	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 3	28	CFG String Training (3, CDABA)	4	234198	CDABA	cdaba						CDABA	C	952	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 2	27	CFG String Training (2, ABDAA)	3	237254	ABDAA	abdaa						ABDAA	C	953	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 18	43	CFG String Training (18, ADCAAAB)	19	239886	ADCAAAB	adcaaab						ADCAAAB	C	783	
+CFG SCS	4	4	CFG SCS	1	CFG String Training1, 19	44	CFG String Training (19, ABADCABB)	20	243478	ABADCABB	abadcabb						ABADCABB	C	709	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 17	66	CFG String Training (17, DCAADBB)	18	247110	DCAADBB	dcaadbb						DCAADBB	C	1029	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 21	70	CFG String Training (21, CDAADBBB)	22	250702	CDAADBBB	cdaadbbb						CDAADBBB	C	884	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 13	62	CFG String Training (13, BBDCDAB)	14	254854	BBDCDAB	bbdcdab						BBDCDAB	C	900	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 20	69	CFG String Training (20, CADDACBB)	21	261646	CADDACBB	caddacbb						CADDACBB	C	1102	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 5	54	CFG String Training (5, ACADD)	6	264374	ACADD	acadd						ACADD	C	1311	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 2	51	CFG String Training (2, ABDAA)	3	265902		a						ABDAA	E	1353	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 2	51	CFG String Training (2, ABDAA)	3	270318	ABDAA	abdaa						ABDAA	SC	3185	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 14	63	CFG String Training (14, ABCCBBA)	15	273934	ABCCBBA	abccbba						ABCCBBA	C	1196	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 15	64	CFG String Training (15, AADCCBB)	16	277278	AADCCBB	aadccbb						AADCCBB	C	739	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 16	65	CFG String Training (16, DCDDABA)	17	284254	DCDDABA	dcddaba						DCDDABA	C	1173	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 24	73	CFG String Training (24, BCADDABA)	25	287878	BCADDABA	bcaddaba						BCADDABA	C	967	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 7	56	CFG String Training (7, ACBDAB)	8	292126	ACBDAB	acbdab						ACBDAB	C	845	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 22	71	CFG String Training (22, ABDCCABA)	23	295790	ABDCCABA	abdccaba						ABDCCABA	C	1547	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 8	57	CFG String Training (8, ADADAB)	9	299302	ADADAB	adadab						ADADAB	C	872	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 6	55	CFG String Training (6, BDACD)	7	307318	BDACD	bdacd						BDACD	C	1212	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 10	59	CFG String Training (10, BACAAB)	11	311054	BACAAB	bacaab						BACAAB	C	1123	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 23	72	CFG String Training (23, DCDABDBB)	24	315694	DCDABDBB	dcdabdbb						DCDABDBB	C	1127	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 19	68	CFG String Training (19, ABADCABB)	20	318974	ABADCABB	abadcabb						ABADCABB	C	820	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 11	60	CFG String Training (11, CCCBCB)	12	321206	CCCBCB	cccbcb						CCCBCB	C	801	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 3	52	CFG String Training (3, CDABA)	4	324190	CDABA	cdaba						CDABA	C	824	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 4	53	CFG String Training (4, DDACB)	5	326534	DDACB	ddacb						DDACB	C	976	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 18	67	CFG String Training (18, ADCAAAB)	19	329662	ADCAAAB	adcaaab						ADCAAAB	C	811	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 12	61	CFG String Training (12, CBBDBA)	13	334102	CBBDBA	cbbdba						CBBDBA	C	1758	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 1	50	CFG String Training (1, AACBB)	2	336174	AACBB	aacbb						AACBB	C	876	
+CFG SCS	4	4	CFG SCS	1	CFG String Training2, 9	58	CFG String Training (9, DCCBDA)	10	339461	DCCBDA	dccbda						DCCBDA	C	865	
+CFG SCS	4	4	CFG SCS	1	Middle Instruction	74	Middle Instruction	26	370453	space		 					space	C	30966	
+CFG SCS	4	4	CFG SCS	1	Middle Instruction	74	Middle Instruction 2	27	375765	space		 					space	C	5295	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 18	92	CFG Color Test (18, testRGYYG.jpg)	45	385669	3		3					1; 2; 3; 4	C	9882	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 5	79	CFG Color Test (5, testBYBBGGGR.jpg)	32	399525	2		2					1; 2; 3; 4	C	13822	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 3	77	CFG Color Test (3, testBGYBGRY.jpg)	30	405853	2		2					1; 2; 3; 4	C	6315	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 6	80	CFG Color Test (6, testBYGYRYGB.jpg)	33	411573	2		2					1; 2; 3; 4	C	5702	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 16	90	CFG Color Test (16, testRGGBGR.jpg)	43	413965	2		2					1; 2; 3; 4	C	2378	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 19	93	CFG Color Test (19, testYGBRYBR.jpg)	46	418053	2		2					1; 2; 3; 4	C	4049	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 23	97	CFG Color Test (23, testYRGBB.jpg)	50	422085	4		4					1; 2; 3; 4	C	4014	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 11	85	CFG Color Test (11, testGRYBRY.jpg)	38	427757	2		2					1; 2; 3; 4	C	5653	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 12	86	CFG Color Test (12, testGYGYGRR.jpg)	39	431013	4		4					1; 2; 3; 4	C	3242	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 21	95	CFG Color Test (21, testYGGRYGRR.jpg)	48	432765	4		4					1; 2; 3; 4	C	1728	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 9	83	CFG Color Test (9, testGRBGRG.jpg)	36	434565	4		4					1; 2; 3; 4	C	1778	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 8	82	CFG Color Test (8, testGBBGBYY.jpg)	35	436805	4		4					1; 2; 3; 4	C	2218	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 10	84	CFG Color Test (10, testGRBYBBRY.jpg)	37	439684	1		1					1; 2; 3; 4	C	2863	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 22	96	CFG Color Test (22, testYRBBBRY.jpg)	49	441604	4		4					1; 2; 3; 4	C	1900	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 13	87	CFG Color Test (13, testRBGRY.jpg)	40	443436	1		1					1; 2; 3; 4	C	1815	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 14	88	CFG Color Test (14, testRBGYBR.jpg)	41	445044	1		1					1; 2; 3; 4	C	1590	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 1	75	CFG Color Test (1, testBBGRBRYB.jpg)	28	449452	2		2					1; 2; 3; 4	C	4398	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 24	98	CFG Color Test (24, testYYGYRY.jpg)	51	452436	3		3					1; 2; 3; 4	C	2950	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 15	89	CFG Color Test (15, testRGBGR.jpg)	42	453620	4		4					1; 2; 3; 4	C	1166	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 2	76	CFG Color Test (2, testBBGYYBRY.jpg)	29	461340	2		2					1; 2; 3; 4	C	7687	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 17	91	CFG Color Test (17, testRGGBYG.jpg)	44	463188	1		1					1; 2; 3; 4	C	1834	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 4	78	CFG Color Test (4, testBRGRYYG.jpg)	31	464940	1		1					1; 2; 3; 4	C	1736	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 20	94	CFG Color Test (20, testYGBYR.jpg)	47	466260	1		1					1; 2; 3; 4	C	1306	
+CFG SCS	4	4	CFG SCS	1	CFG Color Test, 7	81	CFG Color Test (7, testBYYBR.jpg)	34	467852	4		4					1; 2; 3; 4	C	1581	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 1	99	CFG String Test (1, BCDBA)	52	476460	2		2					1; 2; 3; 4	C	8606	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 9	107	CFG String Test (9, ADCAB)	60	479372	2		2					1; 2; 3; 4	C	2901	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 5	103	CFG String Test (5, ACDCA)	56	485508	4		4					1; 2; 3; 4	C	6121	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 4	102	CFG String Test (4, DBDDCCCA)	55	488948	1		1					1; 2; 3; 4	C	3427	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 20	118	CFG String Test (20, BCCABCAA)	71	491428	1		1					1; 2; 3; 4	C	2474	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 14	112	CFG String Test (14, ACCDBC)	65	493748	1		1					1; 2; 3; 4	C	2311	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 12	110	CFG String Test (12, DDCBBDAB)	63	496308	2		2					1; 2; 3; 4	C	2554	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 13	111	CFG String Test (13, BACDD)	64	499732	3		3					1; 2; 3; 4	C	3412	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 19	117	CFG String Test (19, DACABBC)	70	502700	2		2					1; 2; 3; 4	C	2963	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 24	122	CFG String Test (24, DDCADABD)	75	504540	3		3					1; 2; 3; 4	C	1821	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 23	121	CFG String Test (23, BCDABDA)	74	507156	2		2					1; 2; 3; 4	C	2587	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 6	104	CFG String Test (6, BBCBAB)	57	511276	4		4					1; 2; 3; 4	C	4106	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 17	115	CFG String Test (17, ACBBC)	68	517612	4		4					1; 2; 3; 4	C	6325	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 8	106	CFG String Test (8, CADBDDAB)	59	523292	3		3					1; 2; 3; 4	C	5672	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 21	119	CFG String Test (21, DBBDA)	72	525292	4		4					1; 2; 3; 4	C	1988	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 11	109	CFG String Test (11, BADDDAB)	62	527140	4		4					1; 2; 3; 4	C	1836	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 7	105	CFG String Test (7, DCBDCAB)	58	530748	2		2					1; 2; 3; 4	C	3594	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 22	120	CFG String Test (22, ADCBDA)	73	533724	2		2					1; 2; 3; 4	C	2970	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 3	101	CFG String Test (3, CBCBCAA)	54	536668	3		3					1; 2; 3; 4	C	2931	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 16	114	CFG String Test (16, DBCBABCD)	67	543772	1		1					1; 2; 3; 4	C	7102	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 15	113	CFG String Test (15, CDDCDBB)	66	548916	4		4					1; 2; 3; 4	C	5129	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 18	116	CFG String Test (18, CADCAC)	69	551484	4		4					1; 2; 3; 4	C	2564	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 2	100	CFG String Test (2, ACCDCA)	53	553588	4		4					1; 2; 3; 4	C	2101	
+CFG SCS	4	4	CFG SCS	1	CFG String Test1, 10	108	CFG String Test (10, CABDAB)	61	557388	1		1					1; 2; 3; 4	C	3785	
+CFG SCS	4	4	CFG SCS	1	Debriefing	123	Debriefing	76	574828	space		 					space	C	17409	
+Debriefing

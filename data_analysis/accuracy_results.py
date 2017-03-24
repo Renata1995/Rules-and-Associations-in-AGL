@@ -4,7 +4,7 @@ import numpy as np
 from scipy import stats
 
 if len(sys.argv) <= 1:
-    src = "CFG_SSC"
+    src = "RE_R"
 else:
     src = sys.argv[1]
 
@@ -17,7 +17,6 @@ info_extractor = InfoExtractor()
 
 # open the output file
 ofile = open(output, "w")
-
 
 ac_avg = []
 
@@ -32,13 +31,12 @@ tt = [[], [], [], []]
 for fname in os.listdir(src):
     filename = src + "/" + fname
     ofile.write("Participant ID: " + fname.replace(".txt", "") + "\n")
-
+    print "1"
     # extract data from the raw file
     test_data_letter, test_data_color, test_data = info_extractor.test_data(filename)
-
+    print "0"
     # calculate accuracy of letter test items, color test items, and all test items
     letter_ap, color_ap, overall_ap = info_extractor.accuracy(test_data_letter, test_data_color)
-
     # Grammatical Items
     ofile.write("Grammatical Items: \n")
     ofile.write("Letter   number:  " + str(letter_ap["g"]) + " percent: " + str(letter_ap["g_percent"]))
