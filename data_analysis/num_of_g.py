@@ -3,7 +3,8 @@ import numpy as np
 import os
 
 # open all files
-src_list = ["CFG_SCS", "CFG_SSC", "RE_SCS", "RE_SSC", "RE_RCS", "RE_RSC", "CFG_RSC", "CFG_RCS"]
+#src_list = ["CFG_SCS", "CFG_SSC", "RE_SCS", "RE_SSC", "RE_RCS", "RE_RSC", "CFG_RSC", "CFG_RCS"]
+src_list = ["RE_R"]
 ie = InfoExtractor()
 g_percents = []
 

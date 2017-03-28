@@ -130,30 +130,19 @@ All Items:
 Letter   number:  12 percent: 0.5   Color number: 12  percent: 0.5   Overall number:  24  percent: 0.5
 ------------------------------------
 
-Participant ID: SSC 7
-Grammatical Items: 
-Letter   number:  8 percent: 0.666666666667   Color number: 0  percent: 0.0   Overall number:  8  percent: 0.333333333333
+Overall avg 0.5  SD: 0.068041381744
 
-Ungrammatical Items: 
-Letter   number:  7 percent: 0.583333333333   Color number: 11  percent: 0.916666666667   Overall number:  18  percent: 0.75
+Letter avg 0.5  SD: 0.0900102874779
+G avg 0.541666666667  SD: 0.262422828162
+UG avg 0.458333333333  SD: 0.164921417876
+t-test G and UG  t: 0.891729063613, p: 0.38218790581
 
-All Items: 
-Letter   number:  15 percent: 0.625   Color number: 11  percent: 0.458333333333   Overall number:  26  percent: 0.541666666667
-------------------------------------
+Color avg 0.5  SD: 0.102062072616
+G avg 0.465277777778  SD: 0.18775702548
+UG avg 0.534722222222  SD: 0.181487977019
+t-test G and UG  t: -0.882006199724, p: 0.387308981959
+t-test Letter and Color  t: 1.35292417346e-15, p: 1.0
 
-Overall avg 0.503205128205  SD: 0.0663082079025
-
-Letter avg 0.509615384615  SD: 0.0926720018897
-G avg 0.551282051282  SD: 0.254318390063
-UG avg 0.467948717949  SD: 0.161914499235
-t-test G and UG  t: 0.957505801473, p: 0.347858850424
-
-Color avg 0.496794871795  SD: 0.0986846430663
-G avg 0.429487179487  SD: 0.218889372807
-UG avg 0.564102564103  SD: 0.201897637795
-t-test G and UG  t: -1.56597273953, p: 0.130446497094
-t-test Letter and Color  t: 0.328059931088, p: 0.745711260535
-
-Grammatical avg 0.490384615385  SD: 0.151694353413
-Ungrammatical avg 0.516025641026  SD: 0.147575185041
-t-test G and UG  t: -0.41969845007, p: 0.678439052966
+Grammatical avg 0.503472222222  SD: 0.150672041345
+Ungrammatical avg 0.496527777778  SD: 0.136569169717
+t-test G and UG  t: 0.113260709596, p: 0.910851060552

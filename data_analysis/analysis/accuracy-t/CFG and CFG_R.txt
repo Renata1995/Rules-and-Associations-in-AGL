@@ -1,0 +1,26 @@
+CFG and CFG Control
+
+- Compare with 50%
+EXP  Letter-G: Ttest_indResult(statistic=-0.15757759921469355, pvalue=0.87622699020266293)  Color-G: Ttest_indResult(statistic=-0.3973597071195149, pvalue=0.69493122185410727)  All-G: Ttest_indResult(statistic=-0.35456210417116613, pvalue=0.72629378742506834)
+EXP  Letter-UG: Ttest_indResult(statistic=0.80439966653984285, pvalue=0.42977354721436656)  Color-UG: Ttest_indResult(statistic=0.1845419398244757, pvalue=0.85527888877385583)  All-UG: Ttest_indResult(statistic=0.62519032635065119, pvalue=0.53827763729021938)
+CONTROL Letter-G: Ttest_indResult(statistic=-0.74875946222097689, pvalue=0.47124682728014311)  Color-G: Ttest_indResult(statistic=-0.77020798423740722, pvalue=0.45898533520265339)  All-G: Ttest_indResult(statistic=-0.76742576689365094, pvalue=0.4605641106691134)
+CONTROL  Letter-UG: Ttest_indResult(statistic=2.5560386016907732, pvalue=0.02114346286551241)  Color-UG: Ttest_indResult(statistic=2.1506670433991917, pvalue=0.047131612886088664)  All-UG: Ttest_indResult(statistic=2.6516768533381199, pvalue=0.017409534343432381)
+
+Letter All Items
+Comp EXP and 50%: Ttest_indResult(statistic=0.36226177800110793, pvalue=0.71939848762671832)
+Comp CONTROL and 50%: Ttest_indResult(statistic=0.52507458975671706, pvalue=0.60478319901107347)
+
+Color All Items
+Comp EXP and 50%: Ttest_indResult(statistic=-0.15381938635506961, pvalue=0.8786615303842582)
+Comp CONTROL and 50%: Ttest_indResult(statistic=0.0, pvalue=1.0)
+
+- Compare EXP and CONTROL
+Letter
+Comp G: Ttest_indResult(statistic=0.82727486383246929, pvalue=0.42024894754810815)
+Comp UG: Ttest_indResult(statistic=-1.4358857329626418, pvalue=0.17029768127551906)
+Comp ALL: Ttest_indResult(statistic=-0.38892223413130006, pvalue=0.69975877915586571)
+
+Color
+Comp G: Ttest_indResult(statistic=0.66643721676598966, pvalue=0.5146272144719175)
+Comp UG: Ttest_indResult(statistic=-1.2813168696545916, pvalue=0.21834193929698625)
+Comp ALL: Ttest_indResult(statistic=-0.1013657119303796, pvalue=0.91985558572577109)

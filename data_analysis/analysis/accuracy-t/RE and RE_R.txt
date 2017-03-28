@@ -1,0 +1,27 @@
+RE and RE Control
+
+- Compare with 50%
+EXP  Letter-G: Ttest_indResult(statistic=0.52660319441658099, pvalue=0.60373866857988667)  Color-G: Ttest_indResult(statistic=-0.61334899561674927, pvalue=0.54593528923812085)  All-G: Ttest_indResult(statistic=0.076431288758082666, pvalue=0.93976680082840147)
+EXP  Letter-UG: Ttest_indResult(statistic=-0.83793058159639255, pvalue=0.41108114414792762)  Color-UG: Ttest_indResult(statistic=0.63453560334941472, pvalue=0.53227508130216106)  All-UG: Ttest_indResult(statistic=-0.084323997309789608, pvalue=0.9335614685416197)
+CONTROL Letter-G: Ttest_indResult(statistic=-2.5, pvalue=0.031446844236608776)  Color-G: Ttest_indResult(statistic=-1.3416407864998738, pvalue=0.20938312742864568)  All-G: Ttest_indResult(statistic=-2.2612639048974517, pvalue=0.047266923630288914)
+CONTROL  Letter-UG: Ttest_indResult(statistic=0.26756002483626168, pvalue=0.79245639489819331)  Color-UG: Ttest_indResult(statistic=3.994095937741355, pvalue=0.0010449157035549014)  All-UG: Ttest_indResult(statistic=3.1403240629154467, pvalue=0.006322247082477834)
+
+Letter All Items
+Comp EXP and 50%: Ttest_indResult(statistic=0.0, pvalue=1.0)
+Comp CONTROL and 50%: Ttest_indResult(statistic=-1.2405080022422035, pvalue=0.22785479635459133)
+
+Color All Items
+Comp EXP and 50%: Ttest_indResult(statistic=0.0, pvalue=1.0)
+Comp CONTROL and 50%: Ttest_indResult(statistic=0.38951782748808134, pvalue=0.7006382220714571)
+
+
+- Compare EXP and CONTROL
+Letter
+Comp G: Ttest_indResult(statistic=1.5067717282793358, pvalue=0.15135748377118066)
+Comp UG: Ttest_indResult(statistic=-0.62926810258765098, pvalue=0.53805547622367511)
+Comp ALL: Ttest_indResult(statistic=0.83346574808744245, pvalue=0.41039930637350053)
+
+Color
+Comp G: Ttest_indResult(statistic=0.87361034360770351, pvalue=0.39525362738075065)
+Comp UG: Ttest_indResult(statistic=-1.6085579709399933, pvalue=0.12726403428634264)
+Comp ALL: Ttest_indResult(statistic=-0.37176791431459122, pvalue=0.7123726311164984)
