@@ -6,8 +6,8 @@ class InfoExtractor:
         """
         Init basic parameters in the infoExtractor
         """
-        self.size_of_test_items = 24
-        self.size_of_training_items = 24
+        # self.size_of_test_items = 24
+        # self.size_of_training_items = 24
 
     def text_to_data(self, raw):
         """
@@ -150,20 +150,20 @@ class InfoExtractor:
         :param data: a list of TestDataEntry objects
         :return: three lists containing items with high, medium, and low chunk strength
         """
-        low, medium, high = [], [], []
+        low, medium, high = 0, 0, 0
 
         for item in data:
             if item.stimulus in [1, 2, 3, 4, 13, 14, 15, 16]:
                 if self.grammatical(item.response):
-                    low.append(item)
+                    low += 1
             elif item.stimulus in [5, 6, 7, 8, 17, 18, 19, 20]:
                 if self.grammatical(item.response):
-                    medium.append(item)
+                    medium += 1
             elif item.stimulus in [9, 10, 11, 12, 21, 22, 23, 24]:
                 if self.grammatical(item.response):
-                    high.append(item)
+                    high += 1
 
-        return low, medium, high
+        return float(low)/8, float(medium)/8, float(high)/8
 
     def grammatical(self, num):
         """
@@ -213,6 +213,63 @@ class TestDataEntry:
         self.response = response
         self.reaction_time = reaction_time
 
+        self.cs = 0
+        if self.stimulus in [1, 2, 3, 4, 13, 14, 15, 16]:
+            self.cs = 1 # low
+        elif self.stimulus in [5, 6, 7, 8, 17, 18, 19, 20]:
+            self.cs = 2 # med
+        elif self.stimulus in [9, 10, 11, 12, 21, 22, 23, 24]:
+            self.cs = 3 # high
+
+        if self.stimulus <= 12:
+            self.grammatical = 1
+        else:
+            self.grammatical = 0
+
+        if self.grammatical == 1 and self.response >= 3:
+            self.accuracy = 1
+        elif self.grammatical == 0  and self.response <= 2:
+            self.accuracy = 1
+        else:
+            self.accuracy = 0
+
     def display(self):
         print self.grammar + " " + self.order + " " + self.s_type + " " + str(self.stimulus) + " " + str(self.response) + " " + str(self.reaction_time)
+
+    def write(self):
+        # code chunk strength
+        grammar = 0
+        if self.grammar == "RE":
+            grammar = 1
+        elif self.grammar == "CFG":
+            grammar = 2
+
+        # code stimulus type.
+        s_type = 0
+        if self.s_type == "String":
+            s_type = 1
+        elif self.s_type == "Color":
+            s_type = 2
+
+        write_str = str(grammar) + ";" + str(s_type) + ";" + str(self.stimulus) + ";" + str(self.response) + ";" + str(self.reaction_time) + ";" + str(self.cs) + ";" + str(self.grammatical) + ";" + str(self.accuracy)
+        return write_str
+
+
+class Participant:
+    def __init__(self, filename, pid):
+        self.ie = InfoExtractor()
+        self.test_data_letter, self.test_data_color, self.test_data = self.ie.test_data(filename)
+        self.grammar = self.test_data_letter[0].grammar
+        self.pid = pid
+
+    def write(self):
+        write_str = str(self.pid) + ";" + str(self.grammar)
+        for item in self.test_data:
+            write_str += (";" + str(item.response))
+        return write_str
+
+
+
+
+
 

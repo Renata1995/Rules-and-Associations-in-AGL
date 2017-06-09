@@ -1,12 +1,16 @@
-from info_extraction import InfoExtractor
-import numpy as np
-import os
+import pandas
+from scipy import stats
+from statsmodels.formula.api import ols
 
-# open all files
-ie = InfoExtractor()
 
-src = "RE_SCS, RE_SSC"
-for fname in os.listdir(src):
-    filename = src + "/" + fname
-    test_data_letter, test_data_color, test_data = ie.test_data(filename)
+letter = pandas.read_csv("csv files/letter.csv", sep=';', na_values=".")
+
+# re_low = re.where("cs"==1)
+# print (re_low)
+
+model = ols("'Z(HR)-Z(FA)' ~ grammar", letter).fit()
+print model.summary()
+
+
+
 

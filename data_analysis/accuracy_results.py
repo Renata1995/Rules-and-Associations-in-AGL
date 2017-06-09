@@ -4,7 +4,7 @@ import numpy as np
 from scipy import stats
 
 if len(sys.argv) <= 1:
-    src = "CFG"
+    src = "CFG_R"
 else:
     src = sys.argv[1]
 
@@ -14,6 +14,16 @@ else:
     output = sys.argv[2]
 
 info_extractor = InfoExtractor()
+
+
+if src == "RE":
+    gl = 1
+elif src == "RE_R":
+    gl = 2
+elif src == "CFG":
+    gl = 3
+elif src == "CFG_R":
+    gl = 4
 
 # open the output file
 ofile = open(output, "w")
@@ -26,7 +36,7 @@ ac_letter_avg = []
 ac_grammatical_avg = []
 ac_ungrammatical_avg = []
 
-tt = [[], [], [], []]
+tt = [[], [], [], [], [], []]
 
 for fname in os.listdir(src):
     filename = src + "/" + fname
@@ -92,6 +102,41 @@ ofile.write("\n\nGrammatical avg " + str(np.average(ac_grammatical_avg)) + "  SD
 ofile.write("\nUngrammatical avg " + str(np.average(ac_ungrammatical_avg)) + "  SD: " + str(np.std(ac_ungrammatical_avg)))
 t, p = stats.ttest_ind(ac_grammatical_avg, ac_ungrammatical_avg)
 ofile.write("\nt-test G and UG  t: " + str(t) + ", p: " + str(p))
+
+tt[4] = [1-item for item in tt[1]]
+tt[5] = [1-item for item in tt[3]]
+
+letter_hit_avg = np.average(tt[0])
+letter_hit_std = np.std(tt[0])
+letter_fa_avg = np.average(tt[4])
+letter_fa_std = np.std(tt[4])
+
+color_hit_avg = np.average(tt[2])
+color_hit_std = np.std(tt[2])
+color_fa_avg = np.average(tt[5])
+color_fa_std = np.std(tt[5])
+
+dfile = open("csv files/" + src + "_detection.csv", "w")
+dfile.write("\"pid\";\"grammar\";\"s_type\";\"HR\";\"Z(HR)\";\"FA\";\"Z(FA)\";\"Z(HR)-Z(FA)\"\n")
+
+# letter
+for index, value in enumerate(tt[0]):
+    fa_value = tt[4][index]
+    z_hit = float((value-letter_hit_avg)/letter_hit_std)
+    z_fa = float((fa_value - letter_fa_avg)/letter_fa_std)
+    dfile.write(str(index+1) + ";" + str(gl) + ";1;" + str(value) + ";" + str(z_hit)+ ";" + str(fa_value) + ";" + str(z_fa) + ";" + str(z_hit - z_fa) +"\n")
+
+# color
+for index, value in enumerate(tt[2]):
+    fa_value = tt[5][index]
+    z_hit = float((value - color_hit_avg)/color_hit_std)
+    z_fa = float((fa_value - color_fa_avg)/color_fa_std)
+    dfile.write(str(index+1) + ";" + str(gl) + ";2;" + str(value) + ";" + str(z_hit) + ";" + str(fa_value) + ";" + str(z_fa) + ";" + str(z_hit - z_fa)+"\n")
+
+
+
+
+
 
 
 

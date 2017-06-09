@@ -1,4 +1,4 @@
-# Rule-based Operations and Statistics-based Operations in Artificial Grammar Learning
+# Rule-based Processing and Association-based Processing in Artificial Grammar Learning
 
 ## Table of Contents
  * Introduction
@@ -6,11 +6,26 @@
 
 ## Introduction
 
-The current experiment investigates how a rule-based variable and a statistics-based variable influence AGL performance
+### Question
+In our daily life, different forms of knowledge are involved.  
+* Rule-based knowledge
+	i.e. When we try to identify whether an integer x is oddd or even, we use a specific rule: x%2==0? Even:Odd
+* Association-based knowledge
+	i.e. classical conditioning, operant conditioning
+
+Based on the form of knowledge, two learning and decision making processes are proposed, rule-based learning and association-based learning.
+In the learning phase, rule-based learning stores abstract rules wherease association-based learning stores associations.
+When a new case comes, rule-based learning considers whether the new case satisfies a specific rule and then gives a corresponding result. Association-based learning checks whether the new case could trigger stored associations. A judgment depends on the number of triggered associations and the intensity of each association.
+
+![Learning and decision making](/image/learning.png)
+
+The current experiment investigates how a rule-based variable and an association-based variable influence human performance in a simplified experimental setting of learning, the artificial grammar learning paradigm.
 ### ARTIFICIAL GRAMMAR LEARNING PARADIGM (AGL)
 
-* #### Application
-  AGL is used to investigate various areas in cognitive psychology, such as implicit learning, contrast between rules and similarity, pattern recognition, categorization.
+* #### Basic Question
+  Artifical grammar learning paradigm is a simplified learning-test experimental setting. After exposure to strings derived from a formal grammar, human participants illustrated above-chance accuracy on grammatical judgments of new strings without knowledge in details of the grammar (Reber, 1967). 
+  Strings derived from a formal grammar exhibit not only rule-based patterns but also statistical/associative features. 
+  AGL research investigates what type of knowledge, rule-based or association-based or both, has been learned  
 
 * #### Implementation
   Prepare an formal grammar (AG): most researchers used a finite state grammar
@@ -22,10 +37,10 @@ The current experiment investigates how a rule-based variable and a statistics-b
 * ##### Test Phase:
   * A list of new items is generated. X% follows the AG (Grammatical-G) and 1-x% does not (Ungrammatical-UG)
   * Participants will be told that training strings follow a certain grammar but not details of the grammar
-  * Participants will be asked to determine whether new items are G or UG
+  * Participants will be asked to determine whether new items are grammatical or ungrammarical
 
 * ##### Transfer Setting
-Learning items and test items involve different modularities.
+Learning items and test items use the same grammatical rules but different alphabets.
 i.e. The learning session uses letter sequences and the test session uses color sequences.
 
 * ##### Normal Results:
